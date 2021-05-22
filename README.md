@@ -15,7 +15,7 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [bwd](https://cran.r-project.org/web/packages/bwd/index.html): Backward Procedure for Change-Point Detection
 
-[ICSS](https://cran.r-project.org/web/packages/ICSS/index.html): ICSS Algorithm by Inclan/Tiao (1994)
+[ICSS](https://cran.r-project.org/web/packages/ICSS/index.html): ICSS (Iterative Cumulative Sum of Squares) Algorithm by Inclan/Tiao (1994)
 
 [midasml](https://cran.r-project.org/web/packages/midasml/index.html): Estimation and Prediction Methods for High-Dimensional Mixed Frequency Time Series Data
 
