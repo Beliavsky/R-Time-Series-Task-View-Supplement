@@ -35,6 +35,8 @@ R time series packages not included as of 2021-05-22 in [CRAN Task View: Time Se
 
 [knnp](https://cran.r-project.org/web/packages/knnp/index.html): Time Series Prediction using K-Nearest Neighbors Algorithm (Parallel)
 
+[legion](https://cran.r-project.org/web/packages/legion/index.html): Forecasting Using Multivariate Models
+
 [marima](https://cran.r-project.org/web/packages/marima/index.html): Multivariate ARIMA and ARIMA-X Analysis
 
 [memochange](https://cran.r-project.org/web/packages/memochange/index.html): Testing for Structural Breaks under Long Memory and Testing for Changes in Persistence
