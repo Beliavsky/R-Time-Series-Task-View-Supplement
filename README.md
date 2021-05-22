@@ -57,8 +57,6 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [TAR](https://cran.r-project.org/web/packages/TAR/index.html): Bayesian Modeling of Autoregressive Threshold Time Series Models
 
-[tensorTS](https://cran.r-project.org/web/packages/tensorTS/index.html): Factor and Autoregressive Models for Tensor Time Series
-
 [tsfgrnn](https://cran.r-project.org/web/packages/tsfgrnn/index.html): Time Series Forecasting Using GRNN
 
 [tsxtreme](https://cran.r-project.org/web/packages/tsxtreme/index.html): Bayesian Modelling of Extremal Dependence in Time Series
