@@ -65,6 +65,10 @@ R time series packages not included as of 2021-05-22 in [CRAN Task View: Time Se
 
 [peacots](https://cran.r-project.org/web/packages/peacots/index.html): Periodogram Peaks in Correlated Time Series
 
+[RChest](https://cran.r-project.org/web/packages/RChest/index.html): Locating Distributional Changes in Highly Dependent Time Series
+
+[RecordTest](https://cran.r-project.org/web/packages/RecordTest/index.html): Inference Tools in Time Series Based on Record Statistics
+
 [rtrend](https://cran.r-project.org/web/packages/rtrend/index.html): Trend Estimating Tools
 
 [shrinkTVP](https://cran.r-project.org/web/packages/shrinkTVP/index.html): Efficient Bayesian Inference for Time-Varying Parameter Models with Shrinkage
