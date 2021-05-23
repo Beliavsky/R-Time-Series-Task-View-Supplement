@@ -51,6 +51,8 @@ R time series packages not included as of 2021-05-22 in [CRAN Task View: Time Se
 
 [partialAR](https://cran.r-project.org/web/packages/partialAR/index.html): Partial Autoregression
 
+[peacots](https://cran.r-project.org/web/packages/peacots/index.html): Periodogram Peaks in Correlated Time Series
+
 [rtrend](https://cran.r-project.org/web/packages/rtrend/index.html): Trend Estimating Tools
 
 [shrinkTVP](https://cran.r-project.org/web/packages/shrinkTVP/index.html): Efficient Bayesian Inference for Time-Varying Parameter Models with Shrinkage
