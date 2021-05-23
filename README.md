@@ -21,6 +21,8 @@ R time series packages not included as of 2021-05-22 in [CRAN Task View: Time Se
 
 [bwd](https://cran.r-project.org/web/packages/bwd/index.html): Backward Procedure for Change-Point Detection
 
+[ChangePointTaylor](https://cran.r-project.org/web/packages/ChangePointTaylor/index.html): Identify Changes in Mean
+
 [Copula.Markov](https://cran.r-project.org/web/packages/Copula.Markov/index.html): Copula-Based Estimation and Statistical Process Control for Serially Correlated Time Series
 
 [DBfit](https://cran.r-project.org/web/packages/DBfit): A Double Bootstrap Method for Analyzing Linear Models with Autoregressive Errors
@@ -35,7 +37,13 @@ R time series packages not included as of 2021-05-22 in [CRAN Task View: Time Se
 
 [forecastSNSTS](https://cran.r-project.org/web/packages/forecastSNSTS/index.html): Forecasting for Stationary and Non-Stationary Time Series
 
+[gets](https://cran.r-project.org/web/packages/gets/index.html): General-to-Specific (GETS) Modelling and Indicator Saturation Methods
+
 [ICSS](https://cran.r-project.org/web/packages/ICSS/index.html): ICSS (Iterative Cumulative Sum of Squares) Algorithm by Inclan/Tiao (1994)
+
+[iForecast](https://cran.r-project.org/web/packages/iForecast/index.html): Machine Learning Time Series Forecasting
+
+[imputeFin](https://cran.r-project.org/web/packages/imputeFin/index.html): Imputation of Financial Time Series with Missing Values and/or Outliers
 
 [knnp](https://cran.r-project.org/web/packages/knnp/index.html): Time Series Prediction using K-Nearest Neighbors Algorithm (Parallel)
 
@@ -61,6 +69,8 @@ R time series packages not included as of 2021-05-22 in [CRAN Task View: Time Se
 
 [shrinkTVP](https://cran.r-project.org/web/packages/shrinkTVP/index.html): Efficient Bayesian Inference for Time-Varying Parameter Models with Shrinkage
 
+[stlELM](https://cran.r-project.org/web/packages/stlELM/index.html): Hybrid Forecasting Model Based on STL Decomposition and ELM
+
 [StVAR](https://cran.r-project.org/web/packages/StVAR/index.html): Student's t Vector Autoregression (StVAR)
 
 [stepR](https://cran.r-project.org/web/packages/stepR/index.html): Multiscale Change-Point Inference
@@ -68,6 +78,8 @@ R time series packages not included as of 2021-05-22 in [CRAN Task View: Time Se
 [TAR](https://cran.r-project.org/web/packages/TAR/index.html): Bayesian Modeling of Autoregressive Threshold Time Series Models
 
 [tsfgrnn](https://cran.r-project.org/web/packages/tsfgrnn/index.html): Time Series Forecasting Using GRNN
+
+[tsSelect](https://cran.r-project.org/web/packages/tsSelect/index.html): Execution of Time Series Models
 
 [tsxtreme](https://cran.r-project.org/web/packages/tsxtreme/index.html): Bayesian Modelling of Extremal Dependence in Time Series
 
