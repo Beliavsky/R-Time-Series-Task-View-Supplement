@@ -71,6 +71,8 @@ R time series packages not included as of 2021-05-22 in [CRAN Task View: Time Se
 
 [PHSMM](https://cran.r-project.org/web/packages/PHSMM/index.html): Penalised Maximum Likelihood Estimation for Hidden Semi-Markov Models
 
+[RandomForestsGLS](https://cran.r-project.org/web/packages/RandomForestsGLS/index.html): Random Forests for Dependent Data
+
 [RChest](https://cran.r-project.org/web/packages/RChest/index.html): Locating Distributional Changes in Highly Dependent Time Series
 
 [RecordTest](https://cran.r-project.org/web/packages/RecordTest/index.html): Inference Tools in Time Series Based on Record Statistics
