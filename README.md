@@ -9,6 +9,8 @@ R time series packages not included as of 2021-05-22 in [CRAN Task View: Time Se
 
 [betategarch](https://cran.r-project.org/web/packages/betategarch/index.html): Simulation, Estimation and Forecasting of Beta-Skew-t-EGARCH Models
 
+[bimets](https://cran.r-project.org/web/packages/bimets/index.html): Time Series and Econometric Modeling
+
 [BHSBVAR](https://cran.r-project.org/web/packages/BHSBVAR/index.html): Structural Bayesian Vector Autoregression Models
 
 [bootspecdens](https://cran.r-project.org/web/packages/bootspecdens/index.html): Testing equality of spectral densities
@@ -28,6 +30,8 @@ R time series packages not included as of 2021-05-22 in [CRAN Task View: Time Se
 [DBfit](https://cran.r-project.org/web/packages/DBfit): A Double Bootstrap Method for Analyzing Linear Models with Autoregressive Errors
 
 [DCCA](https://cran.r-project.org/web/packages/DCCA/index.html): Detrended Fluctuation and Detrended Cross-Correlation Analysis
+
+[detectR](https://cran.r-project.org/web/packages/detectR/index.html): Change Point Detection
 
 [dynsim](https://cran.r-project.org/web/packages/dynsim/index.html): Dynamic Simulations of Autoregressive Relationships
 
@@ -65,9 +69,13 @@ R time series packages not included as of 2021-05-22 in [CRAN Task View: Time Se
 
 [peacots](https://cran.r-project.org/web/packages/peacots/index.html): Periodogram Peaks in Correlated Time Series
 
+[PHSMM](https://cran.r-project.org/web/packages/PHSMM/index.html): Penalised Maximum Likelihood Estimation for Hidden Semi-Markov Models
+
 [RChest](https://cran.r-project.org/web/packages/RChest/index.html): Locating Distributional Changes in Highly Dependent Time Series
 
 [RecordTest](https://cran.r-project.org/web/packages/RecordTest/index.html): Inference Tools in Time Series Based on Record Statistics
+
+[rumidas](https://cran.r-project.org/web/packages/rumidas/index.html): Univariate GARCH-MIDAS, Double-Asymmetric GARCH-MIDAS and MEM-MIDAS
 
 [rtrend](https://cran.r-project.org/web/packages/rtrend/index.html): Trend Estimating Tools
 
