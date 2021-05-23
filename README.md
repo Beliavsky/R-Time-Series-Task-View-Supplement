@@ -7,6 +7,8 @@ R time series packages not included as of 2021-05-22 in [CRAN Task View: Time Se
 
 [bayesGARCH](https://cran.r-project.org/web/packages/bayesGARCH/index.html): Bayesian Estimation of the GARCH(1,1) Model with Student-t Innovations
 
+[betategarch](https://cran.r-project.org/web/packages/betategarch/index.html): Simulation, Estimation and Forecasting of Beta-Skew-t-EGARCH Models
+
 [BHSBVAR](https://cran.r-project.org/web/packages/BHSBVAR/index.html): Structural Bayesian Vector Autoregression Models
 
 [bootspecdens](https://cran.r-project.org/web/packages/bootspecdens/index.html): Testing equality of spectral densities
