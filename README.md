@@ -43,6 +43,8 @@ R time series packages not included as of 2021-05-22 in [CRAN Task View: Time Se
 
 [garchx](https://cran.r-project.org/web/packages/garchx/index.html): Flexible and Robust GARCH-X Modelling
 
+[GenHMM1d](https://cran.r-project.org/web/packages/GenHMM1d/index.html): Goodness-of-Fit for Univariate Hidden Markov Models 
+
 [gets](https://cran.r-project.org/web/packages/gets/index.html): General-to-Specific (GETS) Modelling and Indicator Saturation Methods
 
 [ICSS](https://cran.r-project.org/web/packages/ICSS/index.html): ICSS (Iterative Cumulative Sum of Squares) Algorithm by Inclan/Tiao (1994)
@@ -66,6 +68,8 @@ R time series packages not included as of 2021-05-22 in [CRAN Task View: Time Se
 [mssm](https://cran.r-project.org/web/packages/mssm/index.html): Multivariate State Space Models
 
 [NHMSAR](https://cran.r-project.org/web/packages/NHMSAR/index.html): Non-Homogeneous Markov Switching Autoregressive Models
+
+[NonlinearTSA](https://cran.r-project.org/web/packages/NonlinearTSA/index.html): Nonlinear Time Series Analysis
 
 [partialAR](https://cran.r-project.org/web/packages/partialAR/index.html): Partial Autoregression
 
