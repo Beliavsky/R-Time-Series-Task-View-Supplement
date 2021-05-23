@@ -41,6 +41,8 @@ R time series packages not included as of 2021-05-22 in [CRAN Task View: Time Se
 
 [forecastSNSTS](https://cran.r-project.org/web/packages/forecastSNSTS/index.html): Forecasting for Stationary and Non-Stationary Time Series
 
+[garchx](https://cran.r-project.org/web/packages/garchx/index.html): Flexible and Robust GARCH-X Modelling
+
 [gets](https://cran.r-project.org/web/packages/gets/index.html): General-to-Specific (GETS) Modelling and Indicator Saturation Methods
 
 [ICSS](https://cran.r-project.org/web/packages/ICSS/index.html): ICSS (Iterative Cumulative Sum of Squares) Algorithm by Inclan/Tiao (1994)
