@@ -99,7 +99,11 @@ R time series packages not included as of 2021-05-22 in [CRAN Task View: Time Se
 
 [tsfgrnn](https://cran.r-project.org/web/packages/tsfgrnn/index.html): Time Series Forecasting Using GRNN
 
+[TSPred](https://cran.r-project.org/web/packages/TSPred/index.html): Functions for Benchmarking Time Series Prediction
+
 [tsSelect](https://cran.r-project.org/web/packages/tsSelect/index.html): Execution of Time Series Models
+
+[tsiR](https://cran.r-project.org/web/packages/tsiR/index.html): An Implementation of the TSIR Model
 
 [tsxtreme](https://cran.r-project.org/web/packages/tsxtreme/index.html): Bayesian Modelling of Extremal Dependence in Time Series
 
