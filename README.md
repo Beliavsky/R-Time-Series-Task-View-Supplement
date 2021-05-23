@@ -29,6 +29,8 @@ R time series packages not included as of 2021-05-22 in [CRAN Task View: Time Se
 
 [dynsim](https://cran.r-project.org/web/packages/dynsim/index.html): Dynamic Simulations of Autoregressive Relationships
 
+[extremogram](https://cran.r-project.org/web/packages/extremogram/index.html): Estimation of Extreme Value Dependence for Time Series Data
+
 [far](https://cran.r-project.org/web/packages/far/index.html): Modelization for Functional AutoRegressive Processes
 
 [forecastSNSTS](https://cran.r-project.org/web/packages/forecastSNSTS/index.html): Forecasting for Stationary and Non-Stationary Time Series
