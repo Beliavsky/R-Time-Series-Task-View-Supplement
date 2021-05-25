@@ -97,6 +97,8 @@ R time series packages not included as of 2021-05-22 in [CRAN Task View: Time Se
 
 [TAR](https://cran.r-project.org/web/packages/TAR/index.html): Bayesian Modeling of Autoregressive Threshold Time Series Models
 
+[TRMF](https://cran.r-project.org/web/packages/TRMF/index.html): Temporally Regularized Matrix Factorization
+
 [tsfgrnn](https://cran.r-project.org/web/packages/tsfgrnn/index.html): Time Series Forecasting Using GRNN
 
 [TSPred](https://cran.r-project.org/web/packages/TSPred/index.html): Functions for Benchmarking Time Series Prediction
