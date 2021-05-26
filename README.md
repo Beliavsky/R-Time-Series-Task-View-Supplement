@@ -41,6 +41,8 @@ R time series packages not included as of 2021-05-22 in [CRAN Task View: Time Se
 
 [forecastSNSTS](https://cran.r-project.org/web/packages/forecastSNSTS/index.html): Forecasting for Stationary and Non-Stationary Time Series
 
+[garchmodels](https://cran.r-project.org/web/packages/garchmodels/index.html): The 'Tidymodels' Extension for GARCH Models
+
 [garchx](https://cran.r-project.org/web/packages/garchx/index.html): Flexible and Robust GARCH-X Modelling
 
 [GenHMM1d](https://cran.r-project.org/web/packages/GenHMM1d/index.html): Goodness-of-Fit for Univariate Hidden Markov Models 
