@@ -55,6 +55,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [hmmr](https://cran.r-project.org/web/packages/hmmr/index.html): "Mixture and Hidden Markov Models with R" Datasets and Example Code
 
+[iAR](https://cran.r-project.org/web/packages/iAR/index.html): Irregularly Observed Autoregressive Models
+
 [ICSS](https://cran.r-project.org/web/packages/ICSS/index.html): ICSS (Iterative Cumulative Sum of Squares) Algorithm by Inclan/Tiao (1994)
 
 [iForecast](https://cran.r-project.org/web/packages/iForecast/index.html): Machine Learning Time Series Forecasting
