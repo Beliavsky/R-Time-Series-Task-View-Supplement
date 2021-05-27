@@ -61,6 +61,8 @@ R time series packages not included as of 2021-05-22 in [CRAN Task View: Time Se
 
 [legion](https://cran.r-project.org/web/packages/legion/index.html): Forecasting Using Multivariate Models
 
+[LSVAR](https://cran.r-project.org/web/packages/LSVAR/index.html): Estimation of Low Rank Plus Sparse Structured Vector Auto-Regressive (VAR) Model
+
 [marima](https://cran.r-project.org/web/packages/marima/index.html): Multivariate ARIMA and ARIMA-X Analysis
 
 [memochange](https://cran.r-project.org/web/packages/memochange/index.html): Testing for Structural Breaks under Long Memory and Testing for Changes in Persistence
