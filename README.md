@@ -85,6 +85,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [partialAR](https://cran.r-project.org/web/packages/partialAR/index.html): Partial Autoregression
 
+[partialCI](https://cran.r-project.org/web/packages/partialCI/index.html): Partial Cointegration
+
 [peacots](https://cran.r-project.org/web/packages/peacots/index.html): Periodogram Peaks in Correlated Time Series
 
 [PHSMM](https://cran.r-project.org/web/packages/PHSMM/index.html): Penalised Maximum Likelihood Estimation for Hidden Semi-Markov Models
