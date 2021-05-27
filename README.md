@@ -19,6 +19,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [bimets](https://cran.r-project.org/web/packages/bimets/index.html): Time Series and Econometric Modeling
 
+[BINCOR](https://cran.r-project.org/web/packages/BINCOR/index.html): Estimate the Correlation Between Two Irregular Time Series
+
 [BHSBVAR](https://cran.r-project.org/web/packages/BHSBVAR/index.html): Structural Bayesian Vector Autoregression Models
 
 [bootspecdens](https://cran.r-project.org/web/packages/bootspecdens/index.html): Testing equality of spectral densities
