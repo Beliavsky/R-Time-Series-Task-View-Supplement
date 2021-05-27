@@ -51,6 +51,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [gets](https://cran.r-project.org/web/packages/gets/index.html): General-to-Specific (GETS) Modelling and Indicator Saturation Methods
 
+[hdiVAR](https://cran.r-project.org/web/packages/hdiVAR/index.html): Statistical Inference for Noisy Vector Autoregression
+
 [hmmr](https://cran.r-project.org/web/packages/hmmr/index.html): "Mixture and Hidden Markov Models with R" Datasets and Example Code
 
 [ICSS](https://cran.r-project.org/web/packages/ICSS/index.html): ICSS (Iterative Cumulative Sum of Squares) Algorithm by Inclan/Tiao (1994)
