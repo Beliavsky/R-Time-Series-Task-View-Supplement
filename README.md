@@ -49,6 +49,8 @@ R time series packages not included as of 2021-05-22 in [CRAN Task View: Time Se
 
 [gets](https://cran.r-project.org/web/packages/gets/index.html): General-to-Specific (GETS) Modelling and Indicator Saturation Methods
 
+[hmmr](https://cran.r-project.org/web/packages/hmmr/index.html): "Mixture and Hidden Markov Models with R" Datasets and Example Code
+
 [ICSS](https://cran.r-project.org/web/packages/ICSS/index.html): ICSS (Iterative Cumulative Sum of Squares) Algorithm by Inclan/Tiao (1994)
 
 [iForecast](https://cran.r-project.org/web/packages/iForecast/index.html): Machine Learning Time Series Forecasting
