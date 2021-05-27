@@ -35,6 +35,12 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [ChangePointTaylor](https://cran.r-project.org/web/packages/ChangePointTaylor/index.html): Identify Changes in Mean
 
+[CHFF](https://cran.r-project.org/web/packages/CHFF/index.html): Closest History Flow Field Forecasting for Bivariate Time Series
+
+[CliftLRD](https://cran.r-project.org/web/packages/CliftLRD/index.html): Complex-Valued Wavelet Lifting Estimators of the Hurst Exponent for Irregularly Sampled Time Series
+
+[CNLTtsa](https://cran.r-project.org/web/packages/CliftLRD/index.html): Complex-Valued Wavelet Lifting for Univariate and Bivariate Time Series Analysis
+
 [Copula.Markov](https://cran.r-project.org/web/packages/Copula.Markov/index.html): Copula-Based Estimation and Statistical Process Control for Serially Correlated Time Series
 
 [DBfit](https://cran.r-project.org/web/packages/DBfit): A Double Bootstrap Method for Analyzing Linear Models with Autoregressive Errors
