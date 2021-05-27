@@ -1,13 +1,21 @@
 # R Time Series Task View Supplement
 R time series packages not included in [CRAN Task View: Time Series Analysis](https://cran.r-project.org/web/views/TimeSeries.html) as of 2021-05-22
 
+[ATAforecasting](https://cran.r-project.org/web/packages/ATAforecasting/index.html): Automatic Time Series Analysis and Forecasting Using the Ata Method
+
+[aTSA](https://cran.r-project.org/web/packages/aTSA/index.html): Alternative Time Series Analysis
+
 [audrex](https://cran.r-project.org/web/packages/audrex/index.html): Automatic Dynamic Regression using Extreme Gradient Boosting
 
 [AutoregressionMDE](https://cran.r-project.org/web/packages/AutoregressionMDE/index.html): Minimum Distance Estimation in Autoregressive Model
 
+[autoTS](https://cran.r-project.org/web/packages/autoTS/index.html): Automatic Model Selection and Prediction for Univariate Time Series
+
 [bayesGARCH](https://cran.r-project.org/web/packages/bayesGARCH/index.html): Bayesian Estimation of the GARCH(1,1) Model with Student-t Innovations
 
 [betategarch](https://cran.r-project.org/web/packages/betategarch/index.html): Simulation, Estimation and Forecasting of Beta-Skew-t-EGARCH Models
+
+[beyondWhittle](https://cran.r-project.org/web/packages/beyondWhittle/index.html): Bayesian Spectral Inference for Stationary Time Series
 
 [bimets](https://cran.r-project.org/web/packages/bimets/index.html): Time Series and Econometric Modeling
 
