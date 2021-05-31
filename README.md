@@ -109,6 +109,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [RandomForestsGLS](https://cran.r-project.org/web/packages/RandomForestsGLS/index.html): Random Forests for Dependent Data
 
+[Rcatch22](https://cran.r-project.org/web/packages/Rcatch22/index.html): Calculation of 22 CAnonical Time-Series CHaracteristics
+
 [RChest](https://cran.r-project.org/web/packages/RChest/index.html): Locating Distributional Changes in Highly Dependent Time Series
 
 [RecordTest](https://cran.r-project.org/web/packages/RecordTest/index.html): Inference Tools in Time Series Based on Record Statistics
