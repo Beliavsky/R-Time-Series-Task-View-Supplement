@@ -55,6 +55,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [far](https://cran.r-project.org/web/packages/far/index.html): Modelization for Functional AutoRegressive Processes
 
+[fHMM](https://cran.r-project.org/web/packages/fHMM/index.html): Fitting Hidden Markov Models to Financial Data
+
 [forecastSNSTS](https://cran.r-project.org/web/packages/forecastSNSTS/index.html): Forecasting for Stationary and Non-Stationary Time Series
 
 [fracdist](https://cran.r-project.org/web/packages/fracdist/index.html): Numerical CDFs for Fractional Unit Root and Cointegration Tests
