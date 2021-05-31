@@ -93,6 +93,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [midasml](https://cran.r-project.org/web/packages/midasml/index.html): Estimation and Prediction Methods for High-Dimensional Mixed Frequency Time Series Data
 
+[modeltime.resample](https://cran.r-project.org/web/packages/modeltime.resample/index.html): Resampling Tools for Time Series Forecasting
+
 [mosum](https://cran.r-project.org/web/packages/mosum/index.html): Moving Sum Based Procedures for Changes in the Mean
 
 [mssm](https://cran.r-project.org/web/packages/mssm/index.html): Multivariate State Space Models
