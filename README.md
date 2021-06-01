@@ -43,6 +43,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [Copula.Markov](https://cran.r-project.org/web/packages/Copula.Markov/index.html): Copula-Based Estimation and Statistical Process Control for Serially Correlated Time Series
 
+[ctsem](https://cran.r-project.org/web/packages/ctsem/index.html): Continuous Time Structural Equation Modelling
+
 [DBfit](https://cran.r-project.org/web/packages/DBfit): A Double Bootstrap Method for Analyzing Linear Models with Autoregressive Errors
 
 [DCCA](https://cran.r-project.org/web/packages/DCCA/index.html): Detrended Fluctuation and Detrended Cross-Correlation Analysis
@@ -124,6 +126,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 [rtrend](https://cran.r-project.org/web/packages/rtrend/index.html): Trend Estimating Tools
 
 [shrinkTVP](https://cran.r-project.org/web/packages/shrinkTVP/index.html): Efficient Bayesian Inference for Time-Varying Parameter Models with Shrinkage
+
+[sovereign](https://cran.r-project.org/web/packages/sovereign/index.html): State-Dependent Empirical Analysis
 
 [stlELM](https://cran.r-project.org/web/packages/stlELM/index.html): Hybrid Forecasting Model Based on STL Decomposition and ELM
 
