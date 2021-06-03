@@ -43,6 +43,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [Copula.Markov](https://cran.r-project.org/web/packages/Copula.Markov/index.html): Copula-Based Estimation and Statistical Process Control for Serially Correlated Time Series
 
+[crqa](https://cran.r-project.org/web/packages/crqa/index.html): Recurrence Quantification Analysis for Categorical and Continuous Time-Series
+
 [ctsem](https://cran.r-project.org/web/packages/ctsem/index.html): Continuous Time Structural Equation Modelling
 
 [DBfit](https://cran.r-project.org/web/packages/DBfit): A Double Bootstrap Method for Analyzing Linear Models with Autoregressive Errors
