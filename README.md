@@ -45,6 +45,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [CNLTtsa](https://cran.r-project.org/web/packages/CliftLRD/index.html): Complex-Valued Wavelet Lifting for Univariate and Bivariate Time Series Analysis
 
+[ConsReg](https://cran.r-project.org/web/packages/ConsReg/index.html): Fits Regression & ARMA Models Subject to Constraints to the Coefficient
+
 [Copula.Markov](https://cran.r-project.org/web/packages/Copula.Markov/index.html): Copula-Based Estimation and Statistical Process Control for Serially Correlated Time Series
 
 [crqa](https://cran.r-project.org/web/packages/crqa/index.html): Recurrence Quantification Analysis for Categorical and Continuous Time-Series
