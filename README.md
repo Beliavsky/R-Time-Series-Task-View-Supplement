@@ -31,6 +31,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [bsplinePsd](https://cran.r-project.org/web/packages/bsplinePsd/index.html): Bayesian Nonparametric Spectral Density Estimation Using B-Spline Priors
 
+[BSS](https://cran.r-project.org/web/packages/BSS/index.html): Brownian Semistationary Processes
+
 [bvarsv](https://cran.r-project.org/web/packages/bvarsv/index.html): Bayesian Analysis of a Vector Autoregressive Model with Stochastic Volatility and Time-Varying Parameters
 
 [bwd](https://cran.r-project.org/web/packages/bwd/index.html): Backward Procedure for Change-Point Detection
