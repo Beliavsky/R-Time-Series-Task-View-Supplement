@@ -29,6 +29,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [BreakPoints](https://cran.r-project.org/web/packages/BreakPoints/index.html): Identify Breakpoints in Series of Data
 
+[bsplinePsd](https://cran.r-project.org/web/packages/bsplinePsd/index.html): Bayesian Nonparametric Spectral Density Estimation Using B-Spline Priors
+
 [bvarsv](https://cran.r-project.org/web/packages/bvarsv/index.html): Bayesian Analysis of a Vector Autoregressive Model with Stochastic Volatility and Time-Varying Parameters
 
 [bwd](https://cran.r-project.org/web/packages/bwd/index.html): Backward Procedure for Change-Point Detection
