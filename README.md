@@ -125,6 +125,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [PHSMM](https://cran.r-project.org/web/packages/PHSMM/index.html): Penalised Maximum Likelihood Estimation for Hidden Semi-Markov Models
 
+[psdr](https://cran.r-project.org/web/packages/psdr/index.html): Use Time Series to Generate and Compare Power Spectral Density
+
 [RandomForestsGLS](https://cran.r-project.org/web/packages/RandomForestsGLS/index.html): Random Forests for Dependent Data
 
 [Rcatch22](https://cran.r-project.org/web/packages/Rcatch22/index.html): Calculation of 22 CAnonical Time-Series CHaracteristics
