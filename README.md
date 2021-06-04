@@ -83,6 +83,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [hdiVAR](https://cran.r-project.org/web/packages/hdiVAR/index.html): Statistical Inference for Noisy Vector Autoregression
 
+[HDTSA](https://cran.r-project.org/web/packages/HDTSA/index.html): High Dimensional Time Series Analysis Tools
+
 [hmmr](https://cran.r-project.org/web/packages/hmmr/index.html): "Mixture and Hidden Markov Models with R" Datasets and Example Code
 
 [iAR](https://cran.r-project.org/web/packages/iAR/index.html): Irregularly Observed Autoregressive Models
