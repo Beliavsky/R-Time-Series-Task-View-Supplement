@@ -41,6 +41,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [bwd](https://cran.r-project.org/web/packages/bwd/index.html): Backward Procedure for Change-Point Detection
 
+[CausalImpact](https://cran.r-project.org/web/packages/CausalImpact/index.html): Inferring Causal Effects using Bayesian Structural Time-Series Models
+
 [ChangePointTaylor](https://cran.r-project.org/web/packages/ChangePointTaylor/index.html): Identify Changes in Mean
 
 [CHFF](https://cran.r-project.org/web/packages/CHFF/index.html): Closest History Flow Field Forecasting for Bivariate Time Series
