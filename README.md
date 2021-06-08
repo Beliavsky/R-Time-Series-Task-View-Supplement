@@ -177,4 +177,6 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [VARtests](https://cran.r-project.org/web/packages/VARtests/index.html): Tests for Error Autocorrelation, ARCH Errors, and Cointegration in Vector Autoregressive Models
 
+[vccp](https://cran.r-project.org/web/packages/vccp/index.html): Vine Copula Change Point Detection in Multivariate Time Series
+
 [VLTimeCausality](https://cran.r-project.org/web/packages/VLTimeCausality/index.html): Variable-Lag Time Series Causality Inference Framework
