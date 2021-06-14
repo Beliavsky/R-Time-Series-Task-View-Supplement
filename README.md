@@ -27,6 +27,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [BHSBVAR](https://cran.r-project.org/web/packages/BHSBVAR/index.html): Structural Bayesian Vector Autoregression Models
 
+[bmgarch](https://cran.r-project.org/web/packages/bmgarch/index.html): Bayesian Multivariate GARCH Models
+
 [bootspecdens](https://cran.r-project.org/web/packages/bootspecdens/index.html): Testing equality of spectral densities
 
 [breakpoint](https://cran.r-project.org/web/packages/breakpoint/index.html): An R Package for Multiple Break-Point Detection via the Cross-Entropy Method
