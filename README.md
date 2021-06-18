@@ -181,6 +181,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [uGMAR](https://cran.r-project.org/web/packages/uGMAR/index.html): Estimate Univariate Gaussian or Student's t Mixture Autoregressive Model
 
+[UnitStat](https://cran.r-project.org/web/packages/UnitStat/index.html): Performs Unit Root Test Statistics
+
 [VARDetect](https://cran.r-project.org/web/packages/VARDetect/index.html): Multiple Change Point Detection in Structural VAR Models
 
 [VARtests](https://cran.r-project.org/web/packages/VARtests/index.html): Tests for Error Autocorrelation, ARCH Errors, and Cointegration in Vector Autoregressive Models
