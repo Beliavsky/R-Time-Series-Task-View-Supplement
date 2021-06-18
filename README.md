@@ -69,6 +69,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [dynsim](https://cran.r-project.org/web/packages/dynsim/index.html): Dynamic Simulations of Autoregressive Relationships
 
+[exdqlm](https://cran.r-project.org/web/packages/exdqlm/index.html): Extended Dynamic Quantile Linear Models
+
 [extremogram](https://cran.r-project.org/web/packages/extremogram/index.html): Estimation of Extreme Value Dependence for Time Series Data
 
 [far](https://cran.r-project.org/web/packages/far/index.html): Modelization for Functional AutoRegressive Processes
