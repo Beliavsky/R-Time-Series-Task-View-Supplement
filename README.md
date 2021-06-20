@@ -135,6 +135,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [NonlinearTSA](https://cran.r-project.org/web/packages/NonlinearTSA/index.html): Nonlinear Time Series Analysis
 
+[nortsTest](https://cran.r-project.org/web/packages/nortsTest/index.html): Assessing Normality of Stationary Process
+
 [partialAR](https://cran.r-project.org/web/packages/partialAR/index.html): Partial Autoregression
 
 [partialCI](https://cran.r-project.org/web/packages/partialCI/index.html): Partial Cointegration
