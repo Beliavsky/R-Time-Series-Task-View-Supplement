@@ -85,6 +85,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [fracdist](https://cran.r-project.org/web/packages/fracdist/index.html): Numerical CDFs for Fractional Unit Root and Cointegration Tests
 
+[FuzzyStatProb](https://cran.r-project.org/web/packages/FuzzyStatProb/index.html): Fuzzy Stationary Probabilities from a Sequence of Observations of an Unknown Markov Chain
+
 [garchmodels](https://cran.r-project.org/web/packages/garchmodels/index.html): The 'Tidymodels' Extension for GARCH Models
 
 [garchx](https://cran.r-project.org/web/packages/garchx/index.html): Flexible and Robust GARCH-X Modelling
