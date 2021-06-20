@@ -17,6 +17,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [bayesGARCH](https://cran.r-project.org/web/packages/bayesGARCH/index.html): Bayesian Estimation of the GARCH(1,1) Model with Student-t Innovations
 
+[BayesProject](https://cran.r-project.org/web/packages/BayesProject/index.html): Fast Projection Direction for Multivariate Changepoint Detection
+
 [betategarch](https://cran.r-project.org/web/packages/betategarch/index.html): Simulation, Estimation and Forecasting of Beta-Skew-t-EGARCH Models
 
 [beyondWhittle](https://cran.r-project.org/web/packages/beyondWhittle/index.html): Bayesian Spectral Inference for Stationary Time Series
@@ -161,7 +163,11 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [shrinkTVP](https://cran.r-project.org/web/packages/shrinkTVP/index.html): Efficient Bayesian Inference for Time-Varying Parameter Models with Shrinkage
 
+[slm](https://cran.r-project.org/web/packages/slm/index.html): Stationary Linear Models
+
 [sovereign](https://cran.r-project.org/web/packages/sovereign/index.html): State-Dependent Empirical Analysis
+
+[ssaBSS](https://cran.r-project.org/web/packages/ssaBSS/index.html): Stationary Subspace Analysis
 
 [stlELM](https://cran.r-project.org/web/packages/stlELM/index.html): Hybrid Forecasting Model Based on STL Decomposition and ELM
 
@@ -169,9 +175,13 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [stepR](https://cran.r-project.org/web/packages/stepR/index.html): Multiscale Change-Point Inference
 
+[SuperGauss](https://cran.r-project.org/web/packages/SuperGauss/index.html): Superfast Likelihood Inference for Stationary Gaussian Time Series
+
 [TAR](https://cran.r-project.org/web/packages/TAR/index.html): Bayesian Modeling of Autoregressive Threshold Time Series Models
 
 [TRMF](https://cran.r-project.org/web/packages/TRMF/index.html): Temporally Regularized Matrix Factorization
+
+[ts.extend](https://cran.r-project.org/web/packages/ts.extend/index.html): Stationary Gaussian ARMA Processes and Other Time-Series Utilities
 
 [tsfgrnn](https://cran.r-project.org/web/packages/tsfgrnn/index.html): Time Series Forecasting Using GRNN
 
