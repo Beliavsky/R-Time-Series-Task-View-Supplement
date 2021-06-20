@@ -190,3 +190,5 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 [vccp](https://cran.r-project.org/web/packages/vccp/index.html): Vine Copula Change Point Detection in Multivariate Time Series
 
 [VLTimeCausality](https://cran.r-project.org/web/packages/VLTimeCausality/index.html): Variable-Lag Time Series Causality Inference Framework
+
+[wbsts](https://cran.r-project.org/web/packages/wbsts/index.html): added Multiple Change-Point Detection for Nonstationary Time Series
