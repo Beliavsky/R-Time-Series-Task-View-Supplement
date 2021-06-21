@@ -47,7 +47,15 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [CausalImpact](https://cran.r-project.org/web/packages/CausalImpact/index.html): Inferring Causal Effects using Bayesian Structural Time-Series Models
 
+[changedetection](https://cran.r-project.org/web/packages/changedetection/index.html): Nonparametric Change Detection in Multivariate Linear Relationships
+
+[changepointsHD](https://cran.r-project.org/web/packages/changepointsHD/index.html): Change-Point Estimation for Expensive and High-Dimensional Models
+
+[changepointsVar](https://cran.r-project.org/web/packages/changepointsVar/index.html): Change-Points Detections for Changes in Variance
+
 [ChangePointTaylor](https://cran.r-project.org/web/packages/ChangePointTaylor/index.html): Identify Changes in Mean
+
+[ChangepointTesting](https://cran.r-project.org/web/packages/ChangepointTesting/index.html): Change Point Estimation for Clustered Signals
 
 [CHFF](https://cran.r-project.org/web/packages/CHFF/index.html): Closest History Flow Field Forecasting for Bivariate Time Series
 
@@ -139,6 +147,10 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [nortsTest](https://cran.r-project.org/web/packages/nortsTest/index.html): Assessing Normality of Stationary Process
 
+[ocd](https://cran.r-project.org/web/packages/ocd/index.html): High-Dimensional Multiscale Online Changepoint Detection
+
+[ocp](https://cran.r-project.org/web/packages/ocp/index.html): Bayesian Online Changepoint Detection
+
 [partialAR](https://cran.r-project.org/web/packages/partialAR/index.html): Partial Autoregression
 
 [partialCI](https://cran.r-project.org/web/packages/partialCI/index.html): Partial Cointegration
@@ -146,6 +158,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 [peacots](https://cran.r-project.org/web/packages/peacots/index.html): Periodogram Peaks in Correlated Time Series
 
 [PHSMM](https://cran.r-project.org/web/packages/PHSMM/index.html): Penalised Maximum Likelihood Estimation for Hidden Semi-Markov Models
+
+[PieceExpIntensity](https://cran.r-project.org/web/packages/PieceExpIntensity/index.html): Bayesian Model to Find Changepoints Based on Rates and Count Data
 
 [psdr](https://cran.r-project.org/web/packages/psdr/index.html): Use Time Series to Generate and Compare Power Spectral Density
 
