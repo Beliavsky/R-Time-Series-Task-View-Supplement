@@ -131,6 +131,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [midasml](https://cran.r-project.org/web/packages/midasml/index.html): Estimation and Prediction Methods for High-Dimensional Mixed Frequency Time Series Data
 
+[MisRepARMA](https://cran.r-project.org/web/packages/MisRepARMA/index.html): Misreported Time Series Analysis
+
 [modeltime.resample](https://cran.r-project.org/web/packages/modeltime.resample/index.html): Resampling Tools for Time Series Forecasting
 
 [modifiedmk](https://cran.r-project.org/web/packages/modifiedmk/index.html): Modified Versions of Mann Kendall and Spearman's Rho Trend Tests
