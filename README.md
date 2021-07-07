@@ -1,5 +1,5 @@
 # R Time Series Task View Supplement
-R time series packages not included in [CRAN Task View: Time Series Analysis](https://cran.r-project.org/web/views/TimeSeries.html) as of 2021-05-22
+R time series packages not included in [CRAN Task View: Time Series Analysis](https://cran.r-project.org/web/views/TimeSeries.html)
 
 [AEDForecasting](https://cran.r-project.org/web/packages/AEDForecasting/index.html): Change Point Analysis in ARIMA Forecasting
 
