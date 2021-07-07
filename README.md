@@ -183,6 +183,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [sovereign](https://cran.r-project.org/web/packages/sovereign/index.html): State-Dependent Empirical Analysis
 
+[SparseTSCGM](https://cran.r-project.org/web/packages/SparseTSCGM/index.html): Sparse Time Series Chain Graphical Models
+
 [ssaBSS](https://cran.r-project.org/web/packages/ssaBSS/index.html): Stationary Subspace Analysis
 
 [stlELM](https://cran.r-project.org/web/packages/stlELM/index.html): Hybrid Forecasting Model Based on STL Decomposition and ELM
