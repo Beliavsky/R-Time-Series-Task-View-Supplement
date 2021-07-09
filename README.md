@@ -85,6 +85,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [far](https://cran.r-project.org/web/packages/far/index.html): Modelization for Functional AutoRegressive Processes
 
+[fastOnlineCpt](https://cran.r-project.org/web/packages/fastOnlineCpt/index.html): Online Multivariate Changepoint Detection
+
 [fatBVARS](https://github.com/hoanguc3m/fatBVARS): Bayesian VAR with Stochastic volatility and fat tails (not on CRAN)
 
 [fHMM](https://cran.r-project.org/web/packages/fHMM/index.html): Fitting Hidden Markov Models to Financial Data
