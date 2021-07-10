@@ -205,6 +205,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [TRMF](https://cran.r-project.org/web/packages/TRMF/index.html): Temporally Regularized Matrix Factorization
 
+[tsBSS](https://cran.r-project.org/web/packages/tsBSS/index.html): Blind Source Separation and Supervised Dimension Reduction for Time Series
+
 [tscopula](https://cran.r-project.org/web/packages/tscopula/index.html): Time Series Copula Models
 
 [ts.extend](https://cran.r-project.org/web/packages/ts.extend/index.html): Stationary Gaussian ARMA Processes and Other Time-Series Utilities
