@@ -105,6 +105,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [GenHMM1d](https://cran.r-project.org/web/packages/GenHMM1d/index.html): Goodness-of-Fit for Univariate Hidden Markov Models 
 
+[geovol](https://cran.r-project.org/web/packages/geovol/index.html): Geopolitical Volatility (GEOVOL) Modelling
+
 [gets](https://cran.r-project.org/web/packages/gets/index.html): General-to-Specific (GETS) Modelling and Indicator Saturation Methods
 
 [hdiVAR](https://cran.r-project.org/web/packages/hdiVAR/index.html): Statistical Inference for Noisy Vector Autoregression
