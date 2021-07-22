@@ -101,6 +101,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [garchmodels](https://cran.r-project.org/web/packages/garchmodels/index.html): The 'Tidymodels' Extension for GARCH Models
 
+[GARCHSK](https://cran.r-project.org/web/packages/GARCHSK/index.html): Estimating a GARCHSK Model and GJRSK Model (time-varying skewness and kurtosis)
+
 [garchx](https://cran.r-project.org/web/packages/garchx/index.html): Flexible and Robust GARCH-X Modelling
 
 [GenHMM1d](https://cran.r-project.org/web/packages/GenHMM1d/index.html): Goodness-of-Fit for Univariate Hidden Markov Models 
