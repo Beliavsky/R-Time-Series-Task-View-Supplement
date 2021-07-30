@@ -123,6 +123,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [ICSS](https://cran.r-project.org/web/packages/ICSS/index.html): ICSS (Iterative Cumulative Sum of Squares) Algorithm by Inclan/Tiao (1994)
 
+[IDetect](https://cran.r-project.org/web/packages/IDetect/index.html): Isolate-Detect Methodology for Multiple Change-Point Detection
+
 [iForecast](https://cran.r-project.org/web/packages/iForecast/index.html): Machine Learning Time Series Forecasting
 
 [imputeFin](https://cran.r-project.org/web/packages/imputeFin/index.html): Imputation of Financial Time Series with Missing Values and/or Outliers
