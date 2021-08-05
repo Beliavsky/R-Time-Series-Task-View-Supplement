@@ -91,6 +91,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [fatBVARS](https://github.com/hoanguc3m/fatBVARS): Bayesian VAR with Stochastic volatility and fat tails (not on CRAN)
 
+[FCVAR](https://cran.r-project.org/web/packages/FCVAR/index.html): Estimation and Inference for the Fractionally Cointegrated VAR
+
 [fHMM](https://cran.r-project.org/web/packages/fHMM/index.html): Fitting Hidden Markov Models to Financial Data
 
 [forecastSNSTS](https://cran.r-project.org/web/packages/forecastSNSTS/index.html): Forecasting for Stationary and Non-Stationary Time Series
