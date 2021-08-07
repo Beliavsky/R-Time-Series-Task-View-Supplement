@@ -173,6 +173,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [peacots](https://cran.r-project.org/web/packages/peacots/index.html): Periodogram Peaks in Correlated Time Series
 
+[phase](https://cran.r-project.org/web/packages/phase/index.html): Analyse Biological Time-Series Data
+
 [PHSMM](https://cran.r-project.org/web/packages/PHSMM/index.html): Penalised Maximum Likelihood Estimation for Hidden Semi-Markov Models
 
 [PieceExpIntensity](https://cran.r-project.org/web/packages/PieceExpIntensity/index.html): Bayesian Model to Find Changepoints Based on Rates and Count Data
