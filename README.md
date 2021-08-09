@@ -233,6 +233,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [tsxtreme](https://cran.r-project.org/web/packages/tsxtreme/index.html): Bayesian Modelling of Extremal Dependence in Time Series
 
+[tvem](https://cran.r-project.org/web/packages/tvem/index.html): Time-Varying Effect Models
+
 [uGMAR](https://cran.r-project.org/web/packages/uGMAR/index.html): Estimate Univariate Gaussian or Student's t Mixture Autoregressive Model
 
 [UnitStat](https://cran.r-project.org/web/packages/UnitStat/index.html): Performs Unit Root Test Statistics
