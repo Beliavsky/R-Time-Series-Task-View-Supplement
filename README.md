@@ -205,6 +205,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [ssaBSS](https://cran.r-project.org/web/packages/ssaBSS/index.html): Stationary Subspace Analysis
 
+[stlARIMA](https://cran.r-project.org/web/packages/stlARIMA/index.html): STL Decomposition and ARIMA Hybrid Forecasting Model
+
 [stlELM](https://cran.r-project.org/web/packages/stlELM/index.html): Hybrid Forecasting Model Based on STL Decomposition and ELM
 
 [StVAR](https://cran.r-project.org/web/packages/StVAR/index.html): Student's t Vector Autoregression (StVAR)
