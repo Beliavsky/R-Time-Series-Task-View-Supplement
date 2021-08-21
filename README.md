@@ -195,6 +195,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [rtrend](https://cran.r-project.org/web/packages/rtrend/index.html): Trend Estimating Tools
 
+[sarima](https://cran.r-project.org/web/packages/sarima/index.html): Simulation and Prediction with Seasonal ARIMA Models
+
 [shrinkTVP](https://cran.r-project.org/web/packages/shrinkTVP/index.html): Efficient Bayesian Inference for Time-Varying Parameter Models with Shrinkage
 
 [slm](https://cran.r-project.org/web/packages/slm/index.html): Stationary Linear Models
