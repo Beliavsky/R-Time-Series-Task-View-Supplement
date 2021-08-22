@@ -163,6 +163,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [nortsTest](https://cran.r-project.org/web/packages/nortsTest/index.html): Assessing Normality of Stationary Process
 
+[onlineforecast](https://cran.r-project.org/web/packages/onlineforecast/index.html): Forecast Modelling for Online Applications
+
 [ocd](https://cran.r-project.org/web/packages/ocd/index.html): High-Dimensional Multiscale Online Changepoint Detection
 
 [ocp](https://cran.r-project.org/web/packages/ocp/index.html): Bayesian Online Changepoint Detection
