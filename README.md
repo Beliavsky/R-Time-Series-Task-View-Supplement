@@ -61,6 +61,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [CHFF](https://cran.r-project.org/web/packages/CHFF/index.html): Closest History Flow Field Forecasting for Bivariate Time Series
 
+[cleanTS](https://cran.r-project.org/web/packages/cleanTS/index.html): Testbench for Univariate Time Series Cleaning
+
 [CliftLRD](https://cran.r-project.org/web/packages/CliftLRD/index.html): Complex-Valued Wavelet Lifting Estimators of the Hurst Exponent for Irregularly Sampled Time Series
 
 [CNLTtsa](https://cran.r-project.org/web/packages/CliftLRD/index.html): Complex-Valued Wavelet Lifting for Univariate and Bivariate Time Series Analysis
