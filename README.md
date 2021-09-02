@@ -245,6 +245,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [tvem](https://cran.r-project.org/web/packages/tvem/index.html): Time-Varying Effect Models
 
+[tvgarch](https://cran.r-project.org/web/packages/tvgarch/index.html): Time Varying GARCH Modelling
+
 [uGMAR](https://cran.r-project.org/web/packages/uGMAR/index.html): Estimate Univariate Gaussian or Student's t Mixture Autoregressive Model
 
 [UnitStat](https://cran.r-project.org/web/packages/UnitStat/index.html): Performs Unit Root Test Statistics
