@@ -259,4 +259,6 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [VLTimeCausality](https://cran.r-project.org/web/packages/VLTimeCausality/index.html): Variable-Lag Time Series Causality Inference Framework
 
+[WASP](https://cran.r-project.org/web/packages/WASP/index.html): Wavelet System Prediction
+
 [wbsts](https://cran.r-project.org/web/packages/wbsts/index.html): added Multiple Change-Point Detection for Nonstationary Time Series
