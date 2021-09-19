@@ -201,6 +201,10 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [sarima](https://cran.r-project.org/web/packages/sarima/index.html): Simulation and Prediction with Seasonal ARIMA Models
 
+[seasonal](https://cran.r-project.org/web/packages/seasonal/index.html): R Interface to X-13-ARIMA-SEATS
+
+[seastests](https://cran.r-project.org/web/packages/seastests/index.html): Seasonality Tests
+
 [shrinkTVP](https://cran.r-project.org/web/packages/shrinkTVP/index.html): Efficient Bayesian Inference for Time-Varying Parameter Models with Shrinkage
 
 [slm](https://cran.r-project.org/web/packages/slm/index.html): Stationary Linear Models
