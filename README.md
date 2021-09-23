@@ -155,6 +155,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [mosum](https://cran.r-project.org/web/packages/mosum/index.html): Moving Sum Based Procedures for Changes in the Mean
 
+[mrf](https://cran.r-project.org/web/packages/mrf/index.html): Multiresolution Forecasting
+
 [mssm](https://cran.r-project.org/web/packages/mssm/index.html): Multivariate State Space Models
 
 [neverhpfilter](https://cran.r-project.org/web/packages/neverhpfilter/index.html): An Alternative to the Hodrick-Prescott Filter
