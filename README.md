@@ -185,6 +185,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [PieceExpIntensity](https://cran.r-project.org/web/packages/PieceExpIntensity/index.html): Bayesian Model to Find Changepoints Based on Rates and Count Data
 
+[prais](https://cran.r-project.org/web/packages/prais/index.html): Prais-Winsten Estimator for AR(1) Serial Correlation
+
 [psdr](https://cran.r-project.org/web/packages/psdr/index.html): Use Time Series to Generate and Compare Power Spectral Density
 
 [ragt2ridges](https://cran.r-project.org/web/packages/ragt2ridges/index.html): Ridge Estimation of Vector Auto-Regressive (VAR) Processes
