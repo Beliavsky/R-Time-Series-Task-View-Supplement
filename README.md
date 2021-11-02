@@ -219,7 +219,7 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [ssaBSS](https://cran.r-project.org/web/packages/ssaBSS/index.html): Stationary Subspace Analysis
 
-[starvars](https://cran.r-project.org/web/packages/starvars/index.html): Vector Logistic Smooth Transition Models / Realized Covariances Construction
+[starvars](https://cran.r-project.org/web/packages/starvars/index.html): Vector Logistic Smooth Transition Models Estimation and Prediction
 
 [STFTS](https://cran.r-project.org/web/packages/STFTS/index.html): Statistical Tests for Functional Time Series
 
