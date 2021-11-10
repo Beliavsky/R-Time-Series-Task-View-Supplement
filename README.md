@@ -47,6 +47,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [bwd](https://cran.r-project.org/web/packages/bwd/index.html): Backward Procedure for Change-Point Detection
 
+[CATkit](https://cran.r-project.org/web/packages/CATkit/index.html): Chronomics Analysis Toolkit (CAT): Periodicity Analysis
+
 [CausalImpact](https://cran.r-project.org/web/packages/CausalImpact/index.html): Inferring Causal Effects using Bayesian Structural Time-Series Models
 
 [changedetection](https://cran.r-project.org/web/packages/changedetection/index.html): Nonparametric Change Detection in Multivariate Linear Relationships
