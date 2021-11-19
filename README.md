@@ -85,6 +85,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [detectR](https://cran.r-project.org/web/packages/detectR/index.html): Change Point Detection
 
+[dynr](https://cran.r-project.org/web/packages/dynr/index.html): Dynamic Models with Regime-Switching
+
 [dynsim](https://cran.r-project.org/web/packages/dynsim/index.html): Dynamic Simulations of Autoregressive Relationships
 
 [exdqlm](https://cran.r-project.org/web/packages/exdqlm/index.html): Extended Dynamic Quantile Linear Models
