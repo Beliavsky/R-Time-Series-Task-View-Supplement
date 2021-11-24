@@ -179,6 +179,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [ocp](https://cran.r-project.org/web/packages/ocp/index.html): Bayesian Online Changepoint Detection
 
+[onlineBcp](https://cran.r-project.org/web/packages/onlineBcp/index.html): Online Bayesian Methods for Change Point Analysis
+
 [partialAR](https://cran.r-project.org/web/packages/partialAR/index.html): Partial Autoregression
 
 [partialCI](https://cran.r-project.org/web/packages/partialCI/index.html): Partial Cointegration
