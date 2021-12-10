@@ -53,6 +53,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [changedetection](https://cran.r-project.org/web/packages/changedetection/index.html): Nonparametric Change Detection in Multivariate Linear Relationships
 
+[changepoints](https://cran.r-project.org/web/packages/changepoints/index.html): A Collection of Change-Point Detection Methods
+
 [changepointsHD](https://cran.r-project.org/web/packages/changepointsHD/index.html): Change-Point Estimation for Expensive and High-Dimensional Models
 
 [changepointsVar](https://cran.r-project.org/web/packages/changepointsVar/index.html): Change-Points Detections for Changes in Variance
