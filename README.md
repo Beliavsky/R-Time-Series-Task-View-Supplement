@@ -207,6 +207,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [RandomForestsGLS](https://cran.r-project.org/web/packages/RandomForestsGLS/index.html): Random Forests for Dependent Data
 
+[Rbeast](https://cran.r-project.org/web/packages/Rbeast/index.html): Bayesian Change-Point Detection and Time Series Decomposition
+
 [Rcatch22](https://cran.r-project.org/web/packages/Rcatch22/index.html): Calculation of 22 CAnonical Time-Series CHaracteristics
 
 [RChest](https://cran.r-project.org/web/packages/RChest/index.html): Locating Distributional Changes in Highly Dependent Time Series
