@@ -85,6 +85,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [DCCA](https://cran.r-project.org/web/packages/DCCA/index.html): Detrended Fluctuation and Detrended Cross-Correlation Analysis
 
+[DeCAFS](https://cran.r-project.org/web/packages/DeCAFS/index.html): Detecting Changes in Autocorrelated and Fluctuating Signals
+
 [detectR](https://cran.r-project.org/web/packages/detectR/index.html): Change Point Detection
 
 [dynr](https://cran.r-project.org/web/packages/dynr/index.html): Dynamic Models with Regime-Switching
