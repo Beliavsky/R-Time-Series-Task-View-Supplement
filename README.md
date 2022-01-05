@@ -219,6 +219,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [RecordTest](https://cran.r-project.org/web/packages/RecordTest/index.html): Inference Tools in Time Series Based on Record Statistics
 
+[rego](https://cran.r-project.org/web/packages/rego/index.html): Automatic Time Series Forecasting and Missing Value Imputation
+
 [rEDM](https://cran.r-project.org/web/packages/rEDM/index.html): Empirical Dynamic Modeling ('EDM')
 
 [rumidas](https://cran.r-project.org/web/packages/rumidas/index.html): Univariate GARCH-MIDAS, Double-Asymmetric GARCH-MIDAS and MEM-MIDAS
