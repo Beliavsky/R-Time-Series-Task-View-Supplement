@@ -93,6 +93,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [dynsim](https://cran.r-project.org/web/packages/dynsim/index.html): Dynamic Simulations of Autoregressive Relationships
 
+[eemdARIMA](https://cran.r-project.org/web/packages/eemdARIMA/index.html): EEMD Based Auto Regressive Integrated Moving Average Model
+
 [EpiSignalDetection](https://cran.r-project.org/web/packages/EpiSignalDetection/index.html): Signal Detection Analysis
 
 [exdqlm](https://cran.r-project.org/web/packages/exdqlm/index.html): Extended Dynamic Quantile Linear Models
