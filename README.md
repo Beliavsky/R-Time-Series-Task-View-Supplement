@@ -159,6 +159,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [memochange](https://cran.r-project.org/web/packages/memochange/index.html): Testing for Structural Breaks under Long Memory and Testing for Changes in Persistence
 
+[mFLICA](https://cran.r-project.org/web/packages/mFLICA/index.html): Leadership-Inference Framework for Multivariate Time Series
+
 [midasml](https://cran.r-project.org/web/packages/midasml/index.html): Estimation and Prediction Methods for High-Dimensional Mixed Frequency Time Series Data
 
 [MisRepARMA](https://cran.r-project.org/web/packages/MisRepARMA/index.html): Misreported Time Series Analysis
