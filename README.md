@@ -155,6 +155,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [LSVAR](https://cran.r-project.org/web/packages/LSVAR/index.html): Estimation of Low Rank Plus Sparse Structured Vector Auto-Regressive (VAR) Model
 
+[LSWPlib](https://cran.r-project.org/web/packages/LSWPlib/index.html): Simulation and Spectral Estimation of Locally Stationary Wavelet Packet Processes
+
 [marima](https://cran.r-project.org/web/packages/marima/index.html): Multivariate ARIMA and ARIMA-X Analysis
 
 [memochange](https://cran.r-project.org/web/packages/memochange/index.html): Testing for Structural Breaks under Long Memory and Testing for Changes in Persistence
