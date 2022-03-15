@@ -101,6 +101,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [extremogram](https://cran.r-project.org/web/packages/extremogram/index.html): Estimation of Extreme Value Dependence for Time Series Data
 
+[fabisearch](https://cran.r-project.org/web/packages/fabisearch/index.html): Change Point Detection in High-Dimensional Time Series Networks
+
 [far](https://cran.r-project.org/web/packages/far/index.html): Modelization for Functional AutoRegressive Processes
 
 [fastOnlineCpt](https://cran.r-project.org/web/packages/fastOnlineCpt/index.html): Online Multivariate Changepoint Detection
