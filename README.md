@@ -149,6 +149,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [knnp](https://cran.r-project.org/web/packages/knnp/index.html): Time Series Prediction using K-Nearest Neighbors Algorithm (Parallel)
 
+[knnwtsim](https://cran.r-project.org/web/packages/knnwtsim/index.html): K Nearest Neighbor Forecasting with a Tailored Similarity Metric
+
 [legion](https://cran.r-project.org/web/packages/legion/index.html): Forecasting Using Multivariate Models
 
 [longitudinal](https://cran.r-project.org/web/packages/longitudinal/index.html): Analysis of Multiple Time Course Data
