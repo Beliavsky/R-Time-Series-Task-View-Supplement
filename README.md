@@ -237,6 +237,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [rtrend](https://cran.r-project.org/web/packages/rtrend/index.html): Trend Estimating Tools
 
+[santaR](https://cran.r-project.org/web/packages/santaR/index.html): Short Asynchronous Time-Series Analysis
+
 [sarima](https://cran.r-project.org/web/packages/sarima/index.html): Simulation and Prediction with Seasonal ARIMA Models
 
 [seasonal](https://cran.r-project.org/web/packages/seasonal/index.html): R Interface to X-13-ARIMA-SEATS
