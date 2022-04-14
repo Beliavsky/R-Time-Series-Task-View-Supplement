@@ -273,6 +273,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [SuperGauss](https://cran.r-project.org/web/packages/SuperGauss/index.html): Superfast Likelihood Inference for Stationary Gaussian Time Series
 
+[svines](https://cran.r-project.org/web/packages/svines/index.html): Stationary Vine Copula Models
+
 [TAR](https://cran.r-project.org/web/packages/TAR/index.html): Bayesian Modeling of Autoregressive Threshold Time Series Models
 
 [trendsegmentR](https://cran.r-project.org/web/packages/trendsegmentR/index.html): Linear Trend Segmentation
