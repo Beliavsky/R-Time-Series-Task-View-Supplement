@@ -255,6 +255,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [SparseTSCGM](https://cran.r-project.org/web/packages/SparseTSCGM/index.html): Sparse Time Series Chain Graphical Models
 
+[spooky](https://cran.r-project.org/web/packages/spooky/index.html): Time Feature Extrapolation Using Spectral Analysis and Jack-Knife Resampling
+
 [ssaBSS](https://cran.r-project.org/web/packages/ssaBSS/index.html): Stationary Subspace Analysis
 
 [starvars](https://cran.r-project.org/web/packages/starvars/index.html): Vector Logistic Smooth Transition Models Estimation and Prediction
