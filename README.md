@@ -149,6 +149,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [imputeFin](https://cran.r-project.org/web/packages/imputeFin/index.html): Imputation of Financial Time Series with Missing Values and/or Outliers
 
+[jenga](https://cran.r-project.org/web/packages/jenga/index.html): Fast Extrapolation of Time Features using K-Nearest Neighbors
+
 [lite](https://cran.r-project.org/web/packages/lite/index.html): Likelihood-Based Inference for Time Series Extremes
 
 [knnp](https://cran.r-project.org/web/packages/knnp/index.html): Time Series Prediction using K-Nearest Neighbors Algorithm (Parallel)
