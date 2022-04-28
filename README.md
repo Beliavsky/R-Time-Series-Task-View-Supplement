@@ -253,6 +253,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [shrinkTVP](https://cran.r-project.org/web/packages/shrinkTVP/index.html): Efficient Bayesian Inference for Time-Varying Parameter Models with Shrinkage
 
+[SLBDD](https://cran.r-project.org/web/packages/SLBDD/index.html): Statistical Learning for Big Dependent Data
+
 [slm](https://cran.r-project.org/web/packages/slm/index.html): Stationary Linear Models
 
 [sovereign](https://cran.r-project.org/web/packages/sovereign/index.html): State-Dependent Empirical Analysis
