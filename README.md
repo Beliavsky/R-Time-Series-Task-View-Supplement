@@ -283,6 +283,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [TAR](https://cran.r-project.org/web/packages/TAR/index.html): Bayesian Modeling of Autoregressive Threshold Time Series Models
 
+[theft](https://cran.r-project.org/web/packages/theft/index.html): Tools for Handling Extraction of Features from Time Series
+
 [trendsegmentR](https://cran.r-project.org/web/packages/trendsegmentR/index.html): Linear Trend Segmentation
 
 [TRMF](https://cran.r-project.org/web/packages/TRMF/index.html): Temporally Regularized Matrix Factorization
