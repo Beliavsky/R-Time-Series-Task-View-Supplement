@@ -191,6 +191,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [multivar](https://cran.r-project.org/web/packages/multivar/index.html): Penalized Estimation and Forecasting of Multiple Subject Vector Autoregressive (multi-VAR) Models
 
+[mvMonitoring](https://cran.r-project.org/web/packages/mvMonitoring/index.html): Multi-State Adaptive Dynamic Principal Component Analysis for Multivariate Process Monitoring
+
 [neverhpfilter](https://cran.r-project.org/web/packages/neverhpfilter/index.html): An Alternative to the Hodrick-Prescott Filter
 
 [NHMSAR](https://cran.r-project.org/web/packages/NHMSAR/index.html): Non-Homogeneous Markov Switching Autoregressive Models
