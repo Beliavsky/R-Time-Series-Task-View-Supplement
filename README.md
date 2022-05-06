@@ -197,6 +197,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [neverhpfilter](https://cran.r-project.org/web/packages/neverhpfilter/index.html): An Alternative to the Hodrick-Prescott Filter
 
+[ngboostForecast](https://cran.r-project.org/web/packages/ngboostForecast/index.html): Probabilistic Time Series Forecasting
+
 [NHMSAR](https://cran.r-project.org/web/packages/NHMSAR/index.html): Non-Homogeneous Markov Switching Autoregressive Models
 
 [NonlinearTSA](https://cran.r-project.org/web/packages/NonlinearTSA/index.html): Nonlinear Time Series Analysis
