@@ -231,8 +231,6 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [prais](https://cran.r-project.org/web/packages/prais/index.html): Prais-Winsten Estimator for AR(1) Serial Correlation
 
-[PSF](https://cran.r-project.org/web/packages/PSF/index.html): Forecasting of Univariate Time Series Using the Pattern Sequence-Based Forecasting (PSF) Algorithm
-
 [psdr](https://cran.r-project.org/web/packages/psdr/index.html): Use Time Series to Generate and Compare Power Spectral Density
 
 [ragt2ridges](https://cran.r-project.org/web/packages/ragt2ridges/index.html): Ridge Estimation of Vector Auto-Regressive (VAR) Processes
