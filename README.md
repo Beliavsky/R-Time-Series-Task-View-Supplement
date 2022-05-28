@@ -141,6 +141,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [gets](https://cran.r-project.org/web/packages/gets/index.html): General-to-Specific (GETS) Modelling and Indicator Saturation Methods
 
+[HBSTM](https://cran.r-project.org/web/packages/HBSTM/index.html): Hierarchical Bayesian Space-Time Models for Gaussian Space-Time Data
+
 [hdiVAR](https://cran.r-project.org/web/packages/hdiVAR/index.html): Statistical Inference for Noisy Vector Autoregression
 
 [HDTSA](https://cran.r-project.org/web/packages/HDTSA/index.html): High Dimensional Time Series Analysis Tools
