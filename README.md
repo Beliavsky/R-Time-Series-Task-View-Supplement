@@ -231,6 +231,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [PieceExpIntensity](https://cran.r-project.org/web/packages/PieceExpIntensity/index.html): Bayesian Model to Find Changepoints Based on Rates and Count Data
 
+[portvine](https://cran.r-project.org/web/packages/portvine/index.html): Vine Based (Un)Conditional Portfolio Risk Measure Estimation
+
 [prais](https://cran.r-project.org/web/packages/prais/index.html): Prais-Winsten Estimator for AR(1) Serial Correlation
 
 [psdr](https://cran.r-project.org/web/packages/psdr/index.html): Use Time Series to Generate and Compare Power Spectral Density
