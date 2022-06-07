@@ -299,6 +299,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [TAR](https://cran.r-project.org/web/packages/TAR/index.html): Bayesian Modeling of Autoregressive Threshold Time Series Models
 
+[tetragon](https://cran.r-project.org/web/packages/tetragon/index.html): Automatic Sequence Prediction by Expansion of the Distance Matrix
+
 [theft](https://cran.r-project.org/web/packages/theft/index.html): Tools for Handling Extraction of Features from Time Series
 
 [trendsegmentR](https://cran.r-project.org/web/packages/trendsegmentR/index.html): Linear Trend Segmentation
