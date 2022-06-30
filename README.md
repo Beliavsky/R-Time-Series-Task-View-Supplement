@@ -307,6 +307,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [trendsegmentR](https://cran.r-project.org/web/packages/trendsegmentR/index.html): Linear Trend Segmentation
 
+[TrendTM](https://cran.r-project.org/web/packages/TrendTM/index.html): Trend of High-Dimensional Time Series Matrix Estimation
+
 [TRMF](https://cran.r-project.org/web/packages/TRMF/index.html): Temporally Regularized Matrix Factorization
 
 [TSANN](https://cran.r-project.org/web/packages/TSANN/index.html): Time Series Artificial Neural Network
