@@ -347,4 +347,6 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [WASP](https://cran.r-project.org/web/packages/WASP/index.html): Wavelet System Prediction
 
+[WaveletArima](https://cran.r-project.org/web/packages/WaveletArima/index.html): Wavelet-ARIMA Model for Time Series Forecasting
+
 [wbsts](https://cran.r-project.org/web/packages/wbsts/index.html): added Multiple Change-Point Detection for Nonstationary Time Series
