@@ -201,6 +201,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [mvMonitoring](https://cran.r-project.org/web/packages/mvMonitoring/index.html): Multi-State Adaptive Dynamic Principal Component Analysis for Multivariate Process Monitoring
 
+[naive](https://cran.r-project.org/web/packages/naive/index.html): Empirical Extrapolation of Time Feature Patterns
+
 [neverhpfilter](https://cran.r-project.org/web/packages/neverhpfilter/index.html): An Alternative to the Hodrick-Prescott Filter
 
 [ngboostForecast](https://cran.r-project.org/web/packages/ngboostForecast/index.html): Probabilistic Time Series Forecasting
