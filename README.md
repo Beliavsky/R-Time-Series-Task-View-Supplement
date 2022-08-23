@@ -77,6 +77,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [Copula.Markov](https://cran.r-project.org/web/packages/Copula.Markov/index.html): Copula-Based Estimation and Statistical Process Control for Serially Correlated Time Series
 
+[cpss](https://cran.r-project.org/web/packages/cpss/index.html): Change-Point Detection by Sample-Splitting Methods
+
 [crops](https://cran.r-project.org/web/packages/crops/index.html): Changepoints for a Range of Penalties (CROPS)
 
 [crqa](https://cran.r-project.org/web/packages/crqa/index.html): Recurrence Quantification Analysis for Categorical and Continuous Time-Series
