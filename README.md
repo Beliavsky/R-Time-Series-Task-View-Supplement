@@ -183,6 +183,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [LSWPlib](https://cran.r-project.org/web/packages/LSWPlib/index.html): Simulation and Spectral Estimation of Locally Stationary Wavelet Packet Processes
 
+[m5](https://cran.r-project.org/web/packages/m5/index.html): 'M5 Forecasting' Challenges Data
+
 [marima](https://cran.r-project.org/web/packages/marima/index.html): Multivariate ARIMA and ARIMA-X Analysis
 
 [memochange](https://cran.r-project.org/web/packages/memochange/index.html): Testing for Structural Breaks under Long Memory and Testing for Changes in Persistence
