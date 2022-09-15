@@ -171,6 +171,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [kalmanfilter](https://cran.r-project.org/web/packages/kalmanfilter/index.html): Kalman Filter
 
+[kimfilter](https://cran.r-project.org/web/packages/kimfilter/index.html): Kim Filter
+
 [knnp](https://cran.r-project.org/web/packages/knnp/index.html): Time Series Prediction using K-Nearest Neighbors Algorithm (Parallel)
 
 [knnwtsim](https://cran.r-project.org/web/packages/knnwtsim/index.html): K Nearest Neighbor Forecasting with a Tailored Similarity Metric
