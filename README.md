@@ -109,6 +109,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [eemdARIMA](https://cran.r-project.org/web/packages/eemdARIMA/index.html): EEMD Based Auto Regressive Integrated Moving Average Model
 
+[EEMDlstm](https://cran.r-project.org/web/packages/EEMDlstm/index.html): EEMD Based LSTM Model for Time Series Forecasting
+
 [EpiSignalDetection](https://cran.r-project.org/web/packages/EpiSignalDetection/index.html): Signal Detection Analysis
 
 [exdqlm](https://cran.r-project.org/web/packages/exdqlm/index.html): Extended Dynamic Quantile Linear Models
