@@ -37,6 +37,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [bmgarch](https://cran.r-project.org/web/packages/bmgarch/index.html): Bayesian Multivariate GARCH Models
 
+[bootCT](https://cran.r-project.org/web/packages/bootCT/index.html): Bootstrapping the ARDL Tests for Cointegration
+
 [bootspecdens](https://cran.r-project.org/web/packages/bootspecdens/index.html): Testing equality of spectral densities
 
 [breakpoint](https://cran.r-project.org/web/packages/breakpoint/index.html): An R Package for Multiple Break-Point Detection via the Cross-Entropy Method
