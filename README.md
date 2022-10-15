@@ -199,6 +199,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [marima](https://cran.r-project.org/web/packages/marima/index.html): Multivariate ARIMA and ARIMA-X Analysis
 
+[MazamaTimeSeries](https://cran.r-project.org/web/packages/MazamaTimeSeries/index.html): Core Functionality for Environmental Time Series
+
 [memochange](https://cran.r-project.org/web/packages/memochange/index.html): Testing for Structural Breaks under Long Memory and Testing for Changes in Persistence
 
 [mFLICA](https://cran.r-project.org/web/packages/mFLICA/index.html): Leadership-Inference Framework for Multivariate Time Series
