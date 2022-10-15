@@ -101,6 +101,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [detectR](https://cran.r-project.org/web/packages/detectR/index.html): Change Point Detection
 
+[dfms](https://cran.r-project.org/web/packages/dfms/index.html): Dynamic Factor Models
+
 [dymo](https://cran.r-project.org/web/packages/dymo/index.html): Dynamic Mode Decomposition for Multivariate Time Feature Prediction
 
 [dynr](https://cran.r-project.org/web/packages/dynr/index.html): Dynamic Models with Regime-Switching
