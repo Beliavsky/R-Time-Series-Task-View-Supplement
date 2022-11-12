@@ -85,6 +85,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [crops](https://cran.r-project.org/web/packages/crops/index.html): Changepoints for a Range of Penalties (CROPS)
 
+[cpop](https://cran.r-project.org/web/packages/cpop/index.html): Detection of Multiple Changes in Slope in Univariate Time-Series
+
 [crqa](https://cran.r-project.org/web/packages/crqa/index.html): Recurrence Quantification Analysis for Categorical and Continuous Time-Series
 
 [ctsem](https://cran.r-project.org/web/packages/ctsem/index.html): Continuous Time Structural Equation Modelling
