@@ -241,6 +241,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [nowcastDFM](https://cran.r-project.org/web/packages/nowcastDFM/index.html): Dynamic Factor Models (DFMs) for Nowcasting
 
+[npcp](https://cran.r-project.org/web/packages/npcp/index.html): Some Nonparametric CUSUM Tests for Change-Point Detection in Possibly Multivariate Observations
+
 [onlineforecast](https://cran.r-project.org/web/packages/onlineforecast/index.html): Forecast Modelling for Online Applications
 
 [ocd](https://cran.r-project.org/web/packages/ocd/index.html): High-Dimensional Multiscale Online Changepoint Detection
