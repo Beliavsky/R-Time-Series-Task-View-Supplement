@@ -5,6 +5,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [ALFRED](https://cran.r-project.org/web/packages/alfred/index.html): Downloading Time Series from ALFRED Database for Various Vintages
 
+[ardl.nardl](https://cran.r-project.org/web/packages/ardl.nardl/index.html): Linear and Nonlinear Autoregressive Distributed Lag Models
+
 [ASV](https://cran.r-project.org/web/packages/ASV/index.html): Stochastic Volatility Models with or without Leverage
 
 [ATAforecasting](https://cran.r-project.org/web/packages/ATAforecasting/index.html): Automatic Time Series Analysis and Forecasting Using the Ata Method
