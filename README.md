@@ -107,6 +107,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [dfms](https://cran.r-project.org/web/packages/dfms/index.html): Dynamic Factor Models
 
+[dlm](https://cran.r-project.org/web/packages/dlm/index.html): Bayesian and Likelihood Analysis of Dynamic Linear Models
+
 [dtwSat](https://cran.r-project.org/web/packages/dtwSat/index.html): Time-Weighted Dynamic Time Warping for Satellite Image Time Series Analysis
 
 [dymo](https://cran.r-project.org/web/packages/dymo/index.html): Dynamic Mode Decomposition for Multivariate Time Feature Prediction
