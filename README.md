@@ -109,6 +109,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [dlm](https://cran.r-project.org/web/packages/dlm/index.html): Bayesian and Likelihood Analysis of Dynamic Linear Models
 
+[DLSSM](https://cran.r-project.org/web/packages/DLSSM/index.html): Dynamic Logistic State Space Prediction Model
+
 [dtwSat](https://cran.r-project.org/web/packages/dtwSat/index.html): Time-Weighted Dynamic Time Warping for Satellite Image Time Series Analysis
 
 [dymo](https://cran.r-project.org/web/packages/dymo/index.html): Dynamic Mode Decomposition for Multivariate Time Feature Prediction
