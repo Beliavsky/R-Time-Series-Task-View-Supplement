@@ -17,6 +17,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [AutoregressionMDE](https://cran.r-project.org/web/packages/AutoregressionMDE/index.html): Minimum Distance Estimation in Autoregressive Model
 
+[autostsm](https://cran.r-project.org/web/packages/autostsm/index.html): Automatic Structural Time Series Models
+
 [autoTS](https://cran.r-project.org/web/packages/autoTS/index.html): Automatic Model Selection and Prediction for Univariate Time Series
 
 [bayesdfa](https://cran.r-project.org/web/packages/bayesdfa/index.html): Bayesian Dynamic Factor Analysis (DFA) with 'Stan'
