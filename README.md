@@ -313,6 +313,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [seastests](https://cran.r-project.org/web/packages/seastests/index.html): Seasonality Tests
 
+[setartree](https://cran.r-project.org/web/packages/setartree/index.html): A Novel and Accurate Tree Algorithm for Global Time Series Forecasting
+
 [shrinkTVP](https://cran.r-project.org/web/packages/shrinkTVP/index.html): Efficient Bayesian Inference for Time-Varying Parameter Models with Shrinkage
 
 [simts](https://cran.r-project.org/web/packages/simts/index.html): Time Series Analysis Tools
