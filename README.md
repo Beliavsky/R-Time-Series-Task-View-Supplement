@@ -343,6 +343,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [stepR](https://cran.r-project.org/web/packages/stepR/index.html): Multiscale Change-Point Inference
 
+[sufficientForecasting](https://cran.r-project.org/web/packages/sufficientForecasting/index.html): Sufficient Forecasting using Factor Models
+
 [SuperGauss](https://cran.r-project.org/web/packages/SuperGauss/index.html): Superfast Likelihood Inference for Stationary Gaussian Time Series
 
 [svines](https://cran.r-project.org/web/packages/svines/index.html): Stationary Vine Copula Models
