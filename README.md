@@ -103,6 +103,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [decomposedPSF](https://cran.r-project.org/web/packages/decomposedPSF/index.html): Time Series Prediction with PSF and Decomposition Methods (EMD and EEMD)
 
+[deFit](https://cran.r-project.org/web/packages/deFit/index.html): Fitting Differential Equations to Time Series Data
+
 [desla](https://cran.r-project.org/web/packages/desla/index.html): Desparsified Lasso Inference for Time Series
 
 [detectR](https://cran.r-project.org/web/packages/detectR/index.html): Change Point Detection
