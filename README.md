@@ -87,6 +87,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [cpss](https://cran.r-project.org/web/packages/cpss/index.html): Change-Point Detection by Sample-Splitting Methods
 
+[CptNonPar](https://cran.r-project.org/web/packages/CptNonPar/index.html): Nonparametric Change Point Detection for Multivariate Time Series
+
 [crops](https://cran.r-project.org/web/packages/crops/index.html): Changepoints for a Range of Penalties (CROPS)
 
 [cpop](https://cran.r-project.org/web/packages/cpop/index.html): Detection of Multiple Changes in Slope in Univariate Time-Series
