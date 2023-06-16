@@ -119,6 +119,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [dtwSat](https://cran.r-project.org/web/packages/dtwSat/index.html): Time-Weighted Dynamic Time Warping for Satellite Image Time Series Analysis
 
+[dynmix](https://cran.r-project.org/web/packages/dynmix/index.html): Estimation of Dynamic Finite Mixtures
+
 [dymo](https://cran.r-project.org/web/packages/dymo/index.html): Dynamic Mode Decomposition for Multivariate Time Feature Prediction
 
 [dynr](https://cran.r-project.org/web/packages/dynr/index.html): Dynamic Models with Regime-Switching
