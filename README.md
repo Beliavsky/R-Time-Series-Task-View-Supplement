@@ -241,6 +241,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [multivar](https://cran.r-project.org/web/packages/multivar/index.html): Penalized Estimation and Forecasting of Multiple Subject Vector Autoregressive (multi-VAR) Models
 
+[mvDFA](https://cran.r-project.org/web/packages/mvDFA/index.html): Multivariate Detrended Fluctuation Analysis
+
 [mvMonitoring](https://cran.r-project.org/web/packages/mvMonitoring/index.html): Multi-State Adaptive Dynamic Principal Component Analysis for Multivariate Process Monitoring
 
 [naive](https://cran.r-project.org/web/packages/naive/index.html): Empirical Extrapolation of Time Feature Patterns
