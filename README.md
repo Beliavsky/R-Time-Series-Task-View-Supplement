@@ -171,6 +171,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [gets](https://cran.r-project.org/web/packages/gets/index.html): General-to-Specific (GETS) Modelling and Indicator Saturation Methods
 
+[GPoM](https://cran.r-project.org/web/packages/GPoM/index.html): Generalized Polynomial Modelling
+
 [MultiGlarmaVarSel](https://cran.r-project.org/web/packages/MultiGlarmaVarSel/index.html): Variable Selection in Sparse Multivariate GLARMA Models
 
 [HBSTM](https://cran.r-project.org/web/packages/HBSTM/index.html): Hierarchical Bayesian Space-Time Models for Gaussian Space-Time Data
