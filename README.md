@@ -293,6 +293,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [popstudy](https://cran.r-project.org/web/packages/popstudy/index.html): Applied Techniques to Demographic and Time Series Analysis
 
+[portes](https://cran.r-project.org/web/packages/portes/index.html): Portmanteau Tests for Time Series Models
+
 [portvine](https://cran.r-project.org/web/packages/portvine/index.html): Vine Based (Un)Conditional Portfolio Risk Measure Estimation
 
 [prais](https://cran.r-project.org/web/packages/prais/index.html): Prais-Winsten Estimator for AR(1) Serial Correlation
