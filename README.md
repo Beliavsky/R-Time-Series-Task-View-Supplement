@@ -97,6 +97,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [ctsem](https://cran.r-project.org/web/packages/ctsem/index.html): Continuous Time Structural Equation Modelling
 
+[dbacf](https://cran.r-project.org/web/packages/dbacf/index.html): Autocovariance Estimation via Difference-Based Methods
+
 [DBfit](https://cran.r-project.org/web/packages/DBfit): A Double Bootstrap Method for Analyzing Linear Models with Autoregressive Errors
 
 [DCCA](https://cran.r-project.org/web/packages/DCCA/index.html): Detrended Fluctuation and Detrended Cross-Correlation Analysis
