@@ -235,6 +235,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [mFLICA](https://cran.r-project.org/web/packages/mFLICA/index.html): Leadership-Inference Framework for Multivariate Time Series
 
+[micss](https://cran.r-project.org/web/packages/micss/index.html): Modified Iterative Cumulative Sum of Squares Algorithm
+
 [midasml](https://cran.r-project.org/web/packages/midasml/index.html): Estimation and Prediction Methods for High-Dimensional Mixed Frequency Time Series Data
 
 [MisRepARMA](https://cran.r-project.org/web/packages/MisRepARMA/index.html): Misreported Time Series Analysis
