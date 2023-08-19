@@ -205,6 +205,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [imputeFin](https://cran.r-project.org/web/packages/imputeFin/index.html): Imputation of Financial Time Series with Missing Values and/or Outliers
 
+[invgamstochvol](https://cran.r-project.org/web/packages/invgamstochvol/index.html): Obtains the Log Likelihood for an Inverse Gamma Stochastic Volatility Model
+
 [jenga](https://cran.r-project.org/web/packages/jenga/index.html): Fast Extrapolation of Time Features using K-Nearest Neighbors
 
 [lite](https://cran.r-project.org/web/packages/lite/index.html): Likelihood-Based Inference for Time Series Extremes
