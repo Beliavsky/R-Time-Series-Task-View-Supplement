@@ -411,6 +411,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [tsSelect](https://cran.r-project.org/web/packages/tsSelect/index.html): Execution of Time Series Models
 
+[TSTutorial](https://cran.r-project.org/web/packages/TSTutorial/index.html): Fitting and Predict Time Series Interactive Laboratory
+
 [tswge](https://cran.r-project.org/web/packages/tswge/index.html): Time Series for Data Science
 
 [tsxtreme](https://cran.r-project.org/web/packages/tsxtreme/index.html): Bayesian Modelling of Extremal Dependence in Time Series
