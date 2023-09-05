@@ -293,6 +293,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [PHSMM](https://cran.r-project.org/web/packages/PHSMM/index.html): Penalised Maximum Likelihood Estimation for Hidden Semi-Markov Models
 
+[PPMiss](https://cran.r-project.org/web/packages/PPMiss/index.html): Copula-Based Estimator for Long-Range Dependent Processes under Missing Data
+
 [PieceExpIntensity](https://cran.r-project.org/web/packages/PieceExpIntensity/index.html): Bayesian Model to Find Changepoints Based on Rates and Count Data
 
 [PNAR](https://cran.r-project.org/web/packages/PNAR/index.html): Poisson Network Autoregressive Models
