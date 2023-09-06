@@ -85,6 +85,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [Copula.Markov](https://cran.r-project.org/web/packages/Copula.Markov/index.html): Copula-Based Estimation and Statistical Process Control for Serially Correlated Time Series
 
+[costat](https://cran.r-project.org/web/packages/costat/index.html): Time Series Costationarity Determination
+
 [cpss](https://cran.r-project.org/web/packages/cpss/index.html): Change-Point Detection by Sample-Splitting Methods
 
 [CptNonPar](https://cran.r-project.org/web/packages/CptNonPar/index.html): Nonparametric Change Point Detection for Multivariate Time Series
