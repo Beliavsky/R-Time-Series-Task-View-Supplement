@@ -197,6 +197,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [hpfilter](https://cran.r-project.org/web/packages/hpfilter/index.html): The One- And Two-Sided Hodrick-Prescott Filter
 
+[hwwntest](https://cran.r-project.org/web/packages/hwwntest/index.html): Tests of White Noise using Wavelets
+
 [iAR](https://cran.r-project.org/web/packages/iAR/index.html): Irregularly Observed Autoregressive Models
 
 [ICSS](https://cran.r-project.org/web/packages/ICSS/index.html): ICSS (Iterative Cumulative Sum of Squares) Algorithm by Inclan/Tiao (1994)
