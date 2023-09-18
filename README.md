@@ -281,6 +281,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [npcp](https://cran.r-project.org/web/packages/npcp/index.html): Some Nonparametric CUSUM Tests for Change-Point Detection in Possibly Multivariate Observations
 
+[NVCSSL](https://cran.r-project.org/web/packages/NVCSSL/index.html): Nonparametric Varying Coefficient Spike-and-Slab Lasso
+
 [onlineforecast](https://cran.r-project.org/web/packages/onlineforecast/index.html): Forecast Modelling for Online Applications
 
 [ocd](https://cran.r-project.org/web/packages/ocd/index.html): High-Dimensional Multiscale Online Changepoint Detection
