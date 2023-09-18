@@ -225,6 +225,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [legion](https://cran.r-project.org/web/packages/legion/index.html): Forecasting Using Multivariate Models
 
+[liftLRD](https://cran.r-project.org/web/packages/liftLRD/index.html): Wavelet Lifting Estimators of the Hurst Exponent for Regularly and Irregularly Sampled Time Series
+
 [longitudinal](https://cran.r-project.org/web/packages/longitudinal/index.html): Analysis of Multiple Time Course Data
 
 [LSVAR](https://cran.r-project.org/web/packages/LSVAR/index.html): Estimation of Low Rank Plus Sparse Structured Vector Auto-Regressive (VAR) Model
