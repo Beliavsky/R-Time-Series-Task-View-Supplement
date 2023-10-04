@@ -383,6 +383,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [SuperGauss](https://cran.r-project.org/web/packages/SuperGauss/index.html): Superfast Likelihood Inference for Stationary Gaussian Time Series
 
+[surveil](https://cran.r-project.org/web/packages/surveil/index.html): Time Series Models for Disease Surveillance
+
 [SVDNF](https://cran.r-project.org/web/packages/SVDNF/index.html): Discrete Nonlinear Filtering for Stochastic Volatility Models
 
 [svines](https://cran.r-project.org/web/packages/svines/index.html): Stationary Vine Copula Models
