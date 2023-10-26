@@ -225,6 +225,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [knnwtsim](https://cran.r-project.org/web/packages/knnwtsim/index.html): K Nearest Neighbor Forecasting with a Tailored Similarity Metric
 
+[kcpRS](https://cran.r-project.org/web/packages/kcpRS/index.html): Kernel Change Point Detection on the Running Statistics
+
 [legion](https://cran.r-project.org/web/packages/legion/index.html): Forecasting Using Multivariate Models
 
 [liftLRD](https://cran.r-project.org/web/packages/liftLRD/index.html): Wavelet Lifting Estimators of the Hurst Exponent for Regularly and Irregularly Sampled Time Series
