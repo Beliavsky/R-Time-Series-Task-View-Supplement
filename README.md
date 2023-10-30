@@ -5,6 +5,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [ALFRED](https://cran.r-project.org/web/packages/alfred/index.html): Downloading Time Series from ALFRED Database for Various Vintages
 
+[anomaly](https://cran.r-project.org/web/packages/anomaly/index.html): Detecting Anomalies in Data
+
 [ardl.nardl](https://cran.r-project.org/web/packages/ardl.nardl/index.html): Linear and Nonlinear Autoregressive Distributed Lag Models
 
 [arima2](https://cran.r-project.org/web/packages/arima2/index.html): Likelihood Based Inference for ARIMA Modeling
