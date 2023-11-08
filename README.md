@@ -117,6 +117,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [deFit](https://cran.r-project.org/web/packages/deFit/index.html): Fitting Differential Equations to Time Series Data
 
+[deseats](https://cran.r-project.org/web/packages/deseats/index.html): Data-Driven Locally Weighted Regression for Trend and Seasonality in TS
+
 [desla](https://cran.r-project.org/web/packages/desla/index.html): Desparsified Lasso Inference for Time Series
 
 [detectR](https://cran.r-project.org/web/packages/detectR/index.html): Change Point Detection
