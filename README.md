@@ -59,6 +59,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [bvarsv](https://cran.r-project.org/web/packages/bvarsv/index.html): Bayesian Analysis of a Vector Autoregressive Model with Stochastic Volatility and Time-Varying Parameters
 
+[bvhar](https://cran.r-project.org/web/packages/bvhar/index.html): Bayesian Vector Heterogeneous Autoregressive Modeling
+
 [bwd](https://cran.r-project.org/web/packages/bwd/index.html): Backward Procedure for Change-Point Detection
 
 [CATkit](https://cran.r-project.org/web/packages/CATkit/index.html): Chronomics Analysis Toolkit (CAT): Periodicity Analysis
