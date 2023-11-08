@@ -259,6 +259,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [MisRepARMA](https://cran.r-project.org/web/packages/MisRepARMA/index.html): Misreported Time Series Analysis
 
+[mlrv](https://cran.r-project.org/web/packages/mlrv/index.html): Long-Run Variance Estimation in Time Series Regression
+
 [modeltime.resample](https://cran.r-project.org/web/packages/modeltime.resample/index.html): Resampling Tools for Time Series Forecasting
 
 [modifiedmk](https://cran.r-project.org/web/packages/modifiedmk/index.html): Modified Versions of Mann Kendall and Spearman's Rho Trend Tests
