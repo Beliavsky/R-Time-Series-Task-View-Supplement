@@ -425,6 +425,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [tscopula](https://cran.r-project.org/web/packages/tscopula/index.html): Time Series Copula Models
 
+[TSLSTMplus](https://cran.r-project.org/web/packages/TSLSTMplus/index.html): Long-Short Term Memory for Time-Series Forecasting, Enhanced
+
 [tseriesTARMA](https://cran.r-project.org/web/packages/tseriesTARMA/index.html): Analysis of Nonlinear Time Series Through TARMA Models
 
 [ts.extend](https://cran.r-project.org/web/packages/ts.extend/index.html): Stationary Gaussian ARMA Processes and Other Time-Series Utilities
