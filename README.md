@@ -253,6 +253,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [memochange](https://cran.r-project.org/web/packages/memochange/index.html): Testing for Structural Breaks under Long Memory and Testing for Changes in Persistence
 
+[MetaCycle](https://cran.r-project.org/web/packages/MetaCycle/index.html): Evaluate Periodicity in Large Scale Data
+
 [mFLICA](https://cran.r-project.org/web/packages/mFLICA/index.html): Leadership-Inference Framework for Multivariate Time Series
 
 [micss](https://cran.r-project.org/web/packages/micss/index.html): Modified Iterative Cumulative Sum of Squares Algorithm
