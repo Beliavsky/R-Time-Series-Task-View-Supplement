@@ -472,3 +472,5 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 [WaveletArima](https://cran.r-project.org/web/packages/WaveletArima/index.html): Wavelet-ARIMA Model for Time Series Forecasting
 
 [wbsts](https://cran.r-project.org/web/packages/wbsts/index.html): added Multiple Change-Point Detection for Nonstationary Time Series
+
+[wwntests](https://cran.r-project.org/web/packages/wwntests/index.html): Hypothesis Tests for Functional Time Series
