@@ -149,6 +149,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [EpiSignalDetection](https://cran.r-project.org/web/packages/EpiSignalDetection/index.html): Signal Detection Analysis
 
+[EVI](https://cran.r-project.org/web/packages/EVI/index.html): Epidemic Volatility Index as an Early-Warning Tool
+
 [exdqlm](https://cran.r-project.org/web/packages/exdqlm/index.html): Extended Dynamic Quantile Linear Models
 
 [EXPARMA](https://cran.r-project.org/web/packages/EXPARMA/index.html): Fitting of Exponential Autoregressive Moving Average (EXPARMA) Model
