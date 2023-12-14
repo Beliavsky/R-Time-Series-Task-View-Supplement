@@ -389,6 +389,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [spooky](https://cran.r-project.org/web/packages/spooky/index.html): Time Feature Extrapolation Using Spectral Analysis and Jack-Knife Resampling
 
+[srlTS](https://cran.r-project.org/web/packages/srlTS/index.html): Sparsity-Ranked Lasso for Time Series
+
 [ssaBSS](https://cran.r-project.org/web/packages/ssaBSS/index.html): Stationary Subspace Analysis
 
 [starvars](https://cran.r-project.org/web/packages/starvars/index.html): Vector Logistic Smooth Transition Models Estimation and Prediction
