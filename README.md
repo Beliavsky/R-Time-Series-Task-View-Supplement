@@ -447,6 +447,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [TSPred](https://cran.r-project.org/web/packages/TSPred/index.html): Functions for Benchmarking Time Series Prediction
 
+[tspredit](https://cran.r-project.org/web/packages/tspredit/index.html): Time Series Prediction Integrated Tuning
+
 [tsSelect](https://cran.r-project.org/web/packages/tsSelect/index.html): Execution of Time Series Models
 
 [TSTutorial](https://cran.r-project.org/web/packages/TSTutorial/index.html): Fitting and Predict Time Series Interactive Laboratory
