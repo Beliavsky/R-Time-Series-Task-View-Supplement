@@ -383,6 +383,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [slm](https://cran.r-project.org/web/packages/slm/index.html): Stationary Linear Models
 
+[SNSeg](https://cran.r-project.org/web/packages/SNSeg/index.html): Self-Normalization(SN) Based Change-Point Estimation for Time Series
+
 [sovereign](https://cran.r-project.org/web/packages/sovereign/index.html): State-Dependent Empirical Analysis
 
 [SparseTSCGM](https://cran.r-project.org/web/packages/SparseTSCGM/index.html): Sparse Time Series Chain Graphical Models
