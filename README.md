@@ -165,6 +165,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [fastOnlineCpt](https://cran.r-project.org/web/packages/fastOnlineCpt/index.html): Online Multivariate Changepoint Detection
 
+[fastTS](https://cran.r-project.org/web/packages/fastTS/index.html): Fast Time Series Modeling with the Sparsity Ranked Lasso
+
 [fatBVARS](https://github.com/hoanguc3m/fatBVARS): Bayesian VAR with Stochastic volatility and fat tails (not on CRAN)
 
 [FCVAR](https://cran.r-project.org/web/packages/FCVAR/index.html): Estimation and Inference for the Fractionally Cointegrated VAR
