@@ -429,6 +429,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [theft](https://cran.r-project.org/web/packages/theft/index.html): Tools for Handling Extraction of Features from Time Series
 
+[tsdataleaks](https://cran.r-project.org/web/packages/tsdataleaks/index.html): Exploit Data Leakages in Time Series Forecasting Competitions
+
 [trendsegmentR](https://cran.r-project.org/web/packages/trendsegmentR/index.html): Linear Trend Segmentation
 
 [TrendTM](https://cran.r-project.org/web/packages/TrendTM/index.html): Trend of High-Dimensional Time Series Matrix Estimation
