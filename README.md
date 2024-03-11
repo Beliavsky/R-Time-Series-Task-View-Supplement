@@ -451,8 +451,6 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [tscopula](https://cran.r-project.org/web/packages/tscopula/index.html): Time Series Copula Models
 
-[TSLSTMplus](https://cran.r-project.org/web/packages/TSLSTMplus/index.html): Long-Short Term Memory for Time-Series Forecasting, Enhanced
-
 [tseriesTARMA](https://cran.r-project.org/web/packages/tseriesTARMA/index.html): Analysis of Nonlinear Time Series Through TARMA Models
 
 [ts.extend](https://cran.r-project.org/web/packages/ts.extend/index.html): Stationary Gaussian ARMA Processes and Other Time-Series Utilities
@@ -460,6 +458,10 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 [tsfgrnn](https://cran.r-project.org/web/packages/tsfgrnn/index.html): Time Series Forecasting Using GRNN
 
 [tsiR](https://cran.r-project.org/web/packages/tsiR/index.html): An Implementation of the TSIR Model
+
+[TSLSTMplus](https://cran.r-project.org/web/packages/TSLSTMplus/index.html): Long-Short Term Memory for Time-Series Forecasting, Enhanced
+
+[tsmethods](https://cran.r-project.org/web/packages/tsmethods/index.html): Time Series Methods -- generic methods for use in a time series probabilistic framework, allowing for a common calling convention across packages
 
 [TSPred](https://cran.r-project.org/web/packages/TSPred/index.html): Functions for Benchmarking Time Series Prediction
 
