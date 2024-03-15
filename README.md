@@ -401,6 +401,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [SparseTSCGM](https://cran.r-project.org/web/packages/SparseTSCGM/index.html): Sparse Time Series Chain Graphical Models
 
+[Spillover](https://cran.r-project.org/web/packages/Spillover/index.html): Spillover/Connectedness Index Based on VAR Modelling
+
 [spooky](https://cran.r-project.org/web/packages/spooky/index.html): Time Feature Extrapolation Using Spectral Analysis and Jack-Knife Resampling
 
 [srlTS](https://cran.r-project.org/web/packages/srlTS/index.html): Sparsity-Ranked Lasso for Time Series
