@@ -205,6 +205,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [GPoM](https://cran.r-project.org/web/packages/GPoM/index.html): Generalized Polynomial Modelling
 
+[harbinger](https://cran.r-project.org/web/packages/harbinger/index.html): A Unified Time Series Event Detection Framework
+
 [Hassani.SACF](https://cran.r-project.org/web/packages/Hassani.SACF/index.html): Computing Lower Bound of Ljung-Box Test
 
 [HDCD](https://cran.r-project.org/web/packages/HDCD/index.html): High-Dimensional Changepoint Detection
