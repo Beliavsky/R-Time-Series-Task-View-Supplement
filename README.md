@@ -443,6 +443,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [tsdataleaks](https://cran.r-project.org/web/packages/tsdataleaks/index.html): Exploit Data Leakages in Time Series Forecasting Competitions
 
+[tspredit](https://cran.r-project.org/web/packages/tspredit/index.html): Time Series Prediction Integrated Tuning
+
 [trendsegmentR](https://cran.r-project.org/web/packages/trendsegmentR/index.html): Linear Trend Segmentation
 
 [TrendTM](https://cran.r-project.org/web/packages/TrendTM/index.html): Trend of High-Dimensional Time Series Matrix Estimation
