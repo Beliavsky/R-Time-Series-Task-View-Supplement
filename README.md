@@ -383,6 +383,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [rEDM](https://cran.r-project.org/web/packages/rEDM/index.html): Empirical Dynamic Modeling ('EDM')
 
+[rkt](https://cran.r-project.org/web/packages/rkt/index.html): Mann-Kendall Test, Seasonal and Regional Kendall Tests
+
 [rumidas](https://cran.r-project.org/web/packages/rumidas/index.html): Univariate GARCH-MIDAS, Double-Asymmetric GARCH-MIDAS and MEM-MIDAS
 
 [rtrend](https://cran.r-project.org/web/packages/rtrend/index.html): Trend Estimating Tools
