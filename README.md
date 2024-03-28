@@ -21,6 +21,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [ARMALSTM](https://cran.r-project.org/web/packages/ARMALSTM/index.html): Fitting of Hybrid ARMA-LSTM Models
 
+[artfima](https://cran.r-project.org/web/packages/artfima/index.html): ARTFIMA Model Estimation
+
 [ASV](https://cran.r-project.org/web/packages/ASV/index.html): Stochastic Volatility Models with or without Leverage
 
 [ATAforecasting](https://cran.r-project.org/web/packages/ATAforecasting/index.html): Automatic Time Series Analysis and Forecasting Using the Ata Method
