@@ -1,6 +1,8 @@
 # R Time Series Task View Supplement
 R time series packages not included in [CRAN Task View: Time Series Analysis](https://cran.r-project.org/web/views/TimeSeries.html)
 
+[acfMPeriod](https://cran.r-project.org/web/packages/acfMPeriod/index.html): Robust Estimation of the ACF from the M-Periodogram
+
 [ADTSA](https://cran.r-project.org/web/packages/ADTSA/index.html): Time Series Analysis. Analyzes autocorrelation and partial autocorrelation using surrogate methods and bootstrapping, and computes the acceleration constants for the vectorized moving block bootstrap provided by this package.
 
 [AEDForecasting](https://cran.r-project.org/web/packages/AEDForecasting/index.html): Change Point Analysis in ARIMA Forecasting
