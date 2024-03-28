@@ -133,6 +133,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [deseats](https://cran.r-project.org/web/packages/deseats/index.html): Data-Driven Locally Weighted Regression for Trend and Seasonality in TS
 
+[descomponer](https://cran.r-project.org/web/packages/descomponer/index.html): Seasonal Adjustment by Frequency Analysis
+
 [desla](https://cran.r-project.org/web/packages/desla/index.html): Desparsified Lasso Inference for Time Series
 
 [detectR](https://cran.r-project.org/web/packages/detectR/index.html): Change Point Detection
