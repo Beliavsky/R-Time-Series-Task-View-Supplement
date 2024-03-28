@@ -13,6 +13,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [ardl.nardl](https://cran.r-project.org/web/packages/ardl.nardl/index.html): Linear and Nonlinear Autoregressive Distributed Lag Models
 
+[AriGaMyANNSVR](https://cran.r-project.org/web/packages/AriGaMyANNSVR/index.html): Hybrid ARIMA-GARCH and Two Specially Designed ML-Based Models
+
 [arima2](https://cran.r-project.org/web/packages/arima2/index.html): Likelihood Based Inference for ARIMA Modeling
 
 [ARMALSTM](https://cran.r-project.org/web/packages/ARMALSTM/index.html): Fitting of Hybrid ARMA-LSTM Models
