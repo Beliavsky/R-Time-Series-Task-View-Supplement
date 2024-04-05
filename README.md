@@ -175,6 +175,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [fabisearch](https://cran.r-project.org/web/packages/fabisearch/index.html): Change Point Detection in High-Dimensional Time Series Networks
 
+[fableCount](https://cran.r-project.org/web/packages/fableCount/index.html): INGARCH and GLARMA Models for Count Time Series in Fable Framework
+
 [far](https://cran.r-project.org/web/packages/far/index.html): Modelization for Functional AutoRegressive Processes
 
 [fastOnlineCpt](https://cran.r-project.org/web/packages/fastOnlineCpt/index.html): Online Multivariate Changepoint Detection
