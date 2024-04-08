@@ -369,6 +369,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [prais](https://cran.r-project.org/web/packages/prais/index.html): Prais-Winsten Estimator for AR(1) Serial Correlation
 
+[PRSim](https://cran.r-project.org/web/packages/PRSim/index.html): Stochastic Simulation of Streamflow Time Series using Phase Randomization
+
 [psdr](https://cran.r-project.org/web/packages/psdr/index.html): Use Time Series to Generate and Compare Power Spectral Density
 
 [ragt2ridges](https://cran.r-project.org/web/packages/ragt2ridges/index.html): Ridge Estimation of Vector Auto-Regressive (VAR) Processes
