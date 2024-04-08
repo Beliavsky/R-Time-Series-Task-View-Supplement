@@ -49,6 +49,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [beyondWhittle](https://cran.r-project.org/web/packages/beyondWhittle/index.html): Bayesian Spectral Inference for Stationary Time Series
 
+[bifurcatingr](https://cran.r-project.org/web/packages/bifurcatingr/index.html): Bifurcating Autoregressive Models
+
 [bimets](https://cran.r-project.org/web/packages/bimets/index.html): Time Series and Econometric Modeling
 
 [BINCOR](https://cran.r-project.org/web/packages/BINCOR/index.html): Estimate the Correlation Between Two Irregular Time Series
