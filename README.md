@@ -259,6 +259,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [lite](https://cran.r-project.org/web/packages/lite/index.html): Likelihood-Based Inference for Time Series Extremes
 
+[LPM](https://cran.r-project.org/web/packages/LPM/index.html): Linear Parametric Models Applied to Hydrological Series
+
 [kalmanfilter](https://cran.r-project.org/web/packages/kalmanfilter/index.html): Kalman Filter
 
 [kimfilter](https://cran.r-project.org/web/packages/kimfilter/index.html): Kim Filter
