@@ -467,6 +467,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [theft](https://cran.r-project.org/web/packages/theft/index.html): Tools for Handling Extraction of Features from Time Series
 
+[TimeVizPro](https://cran.r-project.org/web/packages/TimeVizPro/index.html): Dynamic Data Explorer: Visualize and Forecast with 'TimeVizPro'
+
 [tsdataleaks](https://cran.r-project.org/web/packages/tsdataleaks/index.html): Exploit Data Leakages in Time Series Forecasting Competitions
 
 [tspredit](https://cran.r-project.org/web/packages/tspredit/index.html): Time Series Prediction Integrated Tuning
