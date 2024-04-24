@@ -469,6 +469,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [TimeVizPro](https://cran.r-project.org/web/packages/TimeVizPro/index.html): Dynamic Data Explorer: Visualize and Forecast with 'TimeVizPro'
 
+[TrendLSW](https://cran.r-project.org/web/packages/TrendLSW/index.html): Wavelet Methods for Analysing Locally Stationary Time Series
+
 [tsdataleaks](https://cran.r-project.org/web/packages/tsdataleaks/index.html): Exploit Data Leakages in Time Series Forecasting Competitions
 
 [tspredit](https://cran.r-project.org/web/packages/tspredit/index.html): Time Series Prediction Integrated Tuning
