@@ -473,6 +473,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [tsdataleaks](https://cran.r-project.org/web/packages/tsdataleaks/index.html): Exploit Data Leakages in Time Series Forecasting Competitions
 
+[TSEAL](https://cran.r-project.org/web/packages/TSEAL/index.html): Time Series Analysis Library: allows one to perform a multivariate time series classification based on the use of Discrete Wavelet Transform for feature extraction, a step wise discriminant to select the most relevant features and finally, the use of a linear or quadratic discriminant for classification. 
+
 [tspredit](https://cran.r-project.org/web/packages/tspredit/index.html): Time Series Prediction Integrated Tuning
 
 [trendsegmentR](https://cran.r-project.org/web/packages/trendsegmentR/index.html): Linear Trend Segmentation
