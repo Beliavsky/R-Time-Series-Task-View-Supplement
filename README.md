@@ -317,6 +317,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [mvDFA](https://cran.r-project.org/web/packages/mvDFA/index.html): Multivariate Detrended Fluctuation Analysis
 
+[mvgam](https://cran.r-project.org/web/packages/mvgam/index.html): Multivariate (Dynamic) Generalized Additive Models
+
 [mvMonitoring](https://cran.r-project.org/web/packages/mvMonitoring/index.html): Multi-State Adaptive Dynamic Principal Component Analysis for Multivariate Process Monitoring
 
 [naive](https://cran.r-project.org/web/packages/naive/index.html): Empirical Extrapolation of Time Feature Patterns
