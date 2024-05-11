@@ -173,6 +173,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [exdqlm](https://cran.r-project.org/web/packages/exdqlm/index.html): Extended Dynamic Quantile Linear Models
 
+[EXPAR](https://cran.r-project.org/web/packages/EXPAR/index.html): Fitting of Exponential Autoregressive (EXPAR) Model
+
 [EXPARMA](https://cran.r-project.org/web/packages/EXPARMA/index.html): Fitting of Exponential Autoregressive Moving Average (EXPARMA) Model
 
 [extremogram](https://cran.r-project.org/web/packages/extremogram/index.html): Estimation of Extreme Value Dependence for Time Series Data
