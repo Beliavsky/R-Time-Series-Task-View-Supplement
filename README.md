@@ -233,6 +233,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [HDCD](https://cran.r-project.org/web/packages/HDCD/index.html): High-Dimensional Changepoint Detection
 
+[hydroGOF](https://cran.r-project.org/web/packages/hydroGOF/index.html): Goodness-of-Fit Functions for Comparison of Simulated and Observed Hydrological Time Series
+
 [MultiGlarmaVarSel](https://cran.r-project.org/web/packages/MultiGlarmaVarSel/index.html): Variable Selection in Sparse Multivariate GLARMA Models
 
 [HBSTM](https://cran.r-project.org/web/packages/HBSTM/index.html): Hierarchical Bayesian Space-Time Models for Gaussian Space-Time Data
