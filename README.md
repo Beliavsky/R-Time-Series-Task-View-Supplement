@@ -357,6 +357,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [onlineBcp](https://cran.r-project.org/web/packages/onlineBcp/index.html): Online Bayesian Methods for Change Point Analysis
 
+[outliers.ts.oga](https://cran.r-project.org/web/packages/outliers.ts.oga/index.html): Efficient Outlier Detection in Heterogeneous Time Series Databases
+
 [partialAR](https://cran.r-project.org/web/packages/partialAR/index.html): Partial Autoregression
 
 [partialCI](https://cran.r-project.org/web/packages/partialCI/index.html): Partial Cointegration
