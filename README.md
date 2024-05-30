@@ -355,6 +355,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [ocp](https://cran.r-project.org/web/packages/ocp/index.html): Bayesian Online Changepoint Detection
 
+[OLCPM](https://cran.r-project.org/web/packages/OLCPM/index.html): Online Change Point Detection for Matrix-Valued Time Series
+
 [onlineBcp](https://cran.r-project.org/web/packages/onlineBcp/index.html): Online Bayesian Methods for Change Point Analysis
 
 [outliers.ts.oga](https://cran.r-project.org/web/packages/outliers.ts.oga/index.html): Efficient Outlier Detection in Heterogeneous Time Series Databases
