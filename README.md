@@ -99,6 +99,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [CliftLRD](https://cran.r-project.org/web/packages/CliftLRD/index.html): Complex-Valued Wavelet Lifting Estimators of the Hurst Exponent for Irregularly Sampled Time Series
 
+[ClusterVAR](https://cran.r-project.org/web/packages/ClusterVAR/index.html): Fitting Latent Class Vector-Autoregressive (VAR) Models
+
 [CNLTtsa](https://cran.r-project.org/web/packages/CliftLRD/index.html): Complex-Valued Wavelet Lifting for Univariate and Bivariate Time Series Analysis
 
 [complex](https://cran.r-project.org/web/packages/complex/index.html): Time Series Analysis and Forecasting Using Complex Variables
