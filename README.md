@@ -237,6 +237,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [hydroGOF](https://cran.r-project.org/web/packages/hydroGOF/index.html): Goodness-of-Fit Functions for Comparison of Simulated and Observed Hydrological Time Series
 
+[JFE](https://cran.r-project.org/web/packages/JFE/index.html): Tools for Analyzing Time Series Data of Just Finance and Econometrics
+
 [MultiGlarmaVarSel](https://cran.r-project.org/web/packages/MultiGlarmaVarSel/index.html): Variable Selection in Sparse Multivariate GLARMA Models
 
 [HBSTM](https://cran.r-project.org/web/packages/HBSTM/index.html): Hierarchical Bayesian Space-Time Models for Gaussian Space-Time Data
