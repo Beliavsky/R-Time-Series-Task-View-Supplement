@@ -545,6 +545,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [VARDetect](https://cran.r-project.org/web/packages/VARDetect/index.html): Multiple Change Point Detection in Structural VAR Models
 
+[VAR.spec](https://cran.r-project.org/web/packages/VAR.spec/index.html): Allows Specifying a Bivariate VAR (Vector Autoregression) with Desired Spectral Characteristics
+
 [VARtests](https://cran.r-project.org/web/packages/VARtests/index.html): Tests for Error Autocorrelation, ARCH Errors, and Cointegration in Vector Autoregressive Models
 
 [vccp](https://cran.r-project.org/web/packages/vccp/index.html): Vine Copula Change Point Detection in Multivariate Time Series
