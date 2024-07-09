@@ -557,6 +557,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [VLTimeCausality](https://cran.r-project.org/web/packages/VLTimeCausality/index.html): Variable-Lag Time Series Causality Inference Framework
 
+[vse4ts](https://cran.r-project.org/web/packages/vse4ts/index.html): Identify Memory Patterns in Time Series Using Variance Scale Exponent
+
 [WASP](https://cran.r-project.org/web/packages/WASP/index.html): Wavelet System Prediction
 
 [WaveletArima](https://cran.r-project.org/web/packages/WaveletArima/index.html): Wavelet-ARIMA Model for Time Series Forecasting
