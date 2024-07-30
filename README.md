@@ -241,6 +241,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [JFE](https://cran.r-project.org/web/packages/JFE/index.html): Tools for Analyzing Time Series Data of Just Finance and Econometrics
 
+[longmemo](https://cran.r-project.org/web/packages/longmemo/index.html): Statistics for Long-Memory Processes (Book Jan Beran), and Related Functionality
+
 [MultiGlarmaVarSel](https://cran.r-project.org/web/packages/MultiGlarmaVarSel/index.html): Variable Selection in Sparse Multivariate GLARMA Models
 
 [HBSTM](https://cran.r-project.org/web/packages/HBSTM/index.html): Hierarchical Bayesian Space-Time Models for Gaussian Space-Time Data
