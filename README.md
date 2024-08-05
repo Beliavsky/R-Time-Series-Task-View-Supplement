@@ -373,6 +373,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [partialCI](https://cran.r-project.org/web/packages/partialCI/index.html): Partial Cointegration
 
+[patterncausality](https://cran.r-project.org/web/packages/patterncausality/index.html): Pattern Causality Algorithm. The model proposes a robust methodology for detecting and reconstructing the hidden structure of dynamic complex systems through short-term forecasts and information embedded in reconstructed state spaces.
+
 [pdR](https://cran.r-project.org/web/packages/pdR/index.html): Threshold Model and Unit Root Tests in Cross-Section and Time Series Data
 
 [peacots](https://cran.r-project.org/web/packages/peacots/index.html): Periodogram Peaks in Correlated Time Series
