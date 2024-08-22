@@ -131,6 +131,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [DeCAFS](https://cran.r-project.org/web/packages/DeCAFS/index.html): Detecting Changes in Autocorrelated and Fluctuating Signals
 
+[decp](https://cran.r-project.org/web/packages/decp/index.html): Complete Change Point Analysis
+
 [decompDL](https://cran.r-project.org/web/packages/decompDL/index.html): Decomposition Based Deep Learning Models for Time Series Forecasting
 
 [decomposedPSF](https://cran.r-project.org/web/packages/decomposedPSF/index.html): Time Series Prediction with PSF and Decomposition Methods (EMD and EEMD)
