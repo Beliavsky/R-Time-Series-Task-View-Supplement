@@ -529,6 +529,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [tsfgrnn](https://cran.r-project.org/web/packages/tsfgrnn/index.html): Time Series Forecasting Using GRNN
 
+[tsgc](https://cran.r-project.org/web/packages/tsgc/index.html): Time Series Methods Based on Growth Curves
+
 [tsiR](https://cran.r-project.org/web/packages/tsiR/index.html): An Implementation of the TSIR Model
 
 [TSLSTMplus](https://cran.r-project.org/web/packages/TSLSTMplus/index.html): Long-Short Term Memory for Time-Series Forecasting, Enhanced
