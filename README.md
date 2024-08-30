@@ -177,6 +177,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [evoTS](https://cran.r-project.org/web/packages/evoTS/index.html): Analyses of Evolutionary Time-Series
 
+[exuber](https://cran.r-project.org/web/packages/exuber/index.html): Econometric Analysis of Explosive Time Series
+
 [exdqlm](https://cran.r-project.org/web/packages/exdqlm/index.html): Extended Dynamic Quantile Linear Models
 
 [EXPAR](https://cran.r-project.org/web/packages/EXPAR/index.html): Fitting of Exponential Autoregressive (EXPAR) Model
