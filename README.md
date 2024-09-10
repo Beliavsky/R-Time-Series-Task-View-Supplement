@@ -241,6 +241,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [HDCD](https://cran.r-project.org/web/packages/HDCD/index.html): High-Dimensional Changepoint Detection
 
+[hmix](https://cran.r-project.org/web/packages/hmix/index.html): Hidden Markov Model for Predicting Time Sequences with Mixture Sampling
+
 [hydroGOF](https://cran.r-project.org/web/packages/hydroGOF/index.html): Goodness-of-Fit Functions for Comparison of Simulated and Observed Hydrological Time Series
 
 [JFE](https://cran.r-project.org/web/packages/JFE/index.html): Tools for Analyzing Time Series Data of Just Finance and Econometrics
