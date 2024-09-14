@@ -109,6 +109,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [Copula.Markov](https://cran.r-project.org/web/packages/Copula.Markov/index.html): Copula-Based Estimation and Statistical Process Control for Serially Correlated Time Series
 
+[corbouli](https://cran.r-project.org/web/packages/corbouli/index.html): Corbae-Ouliaris Frequency Domain Filtering
+
 [costat](https://cran.r-project.org/web/packages/costat/index.html): Time Series Costationarity Determination
 
 [cpss](https://cran.r-project.org/web/packages/cpss/index.html): Change-Point Detection by Sample-Splitting Methods
