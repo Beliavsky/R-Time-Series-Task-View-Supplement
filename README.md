@@ -507,6 +507,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [theft](https://cran.r-project.org/web/packages/theft/index.html): Tools for Handling Extraction of Features from Time Series
 
+[timeSeriesDataSets](https://cran.r-project.org/web/packages/timeSeriesDataSets/index.html): Time Series Data Sets
+
 [TimeVizPro](https://cran.r-project.org/web/packages/TimeVizPro/index.html): Dynamic Data Explorer: Visualize and Forecast with 'TimeVizPro'
 
 [TrendLSW](https://cran.r-project.org/web/packages/TrendLSW/index.html): Wavelet Methods for Analysing Locally Stationary Time Series
