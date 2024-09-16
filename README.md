@@ -509,6 +509,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [TAR](https://cran.r-project.org/web/packages/TAR/index.html): Bayesian Modeling of Autoregressive Threshold Time Series Models
 
+[TCIU](https://cran.r-project.org/web/packages/TCIU/index.html): Spacekime Analytics, Time Complexity and Inferential Uncertainty. Provide the core functionality to transform longitudinal data to complex-time (kime) data using analytic and numerical techniques, visualize the original time-series and reconstructed kime-surfaces, perform model based (e.g., tensor-linear regression) and model-free classification and clustering methods in the book Dinov, ID and Velev, MV. (2021) [Data Science: Time Complexity, Inferential Uncertainty, and Spacekime Analytics](https://www.degruyter.com/document/doi/10.1515/9783110697827/html)
+
 [tdata](https://cran.r-project.org/web/packages/tdata/index.html): Prepare Your Time-Series Data for Further Analysis
 
 [tetragon](https://cran.r-project.org/web/packages/tetragon/index.html): Automatic Sequence Prediction by Expansion of the Distance Matrix
