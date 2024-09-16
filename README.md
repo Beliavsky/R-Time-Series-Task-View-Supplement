@@ -455,6 +455,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [shrinkTVP](https://cran.r-project.org/web/packages/shrinkTVP/index.html): Efficient Bayesian Inference for Time-Varying Parameter Models with Shrinkage
 
+[shrinkTVPVAR](https://cran.r-project.org/web/packages/shrinkTVPVAR/index.html): Efficient Bayesian Inference for TVP-VAR-SV Models with Shrinkage. An associated paper is [Triple the Gamma—A Unifying Shrinkage Prior for Variance and Variable Selection in Sparse State Space and TVP Models](https://www.mdpi.com/2225-1146/8/2/20)
+
 [simts](https://cran.r-project.org/web/packages/simts/index.html): Time Series Analysis Tools
 
 [SLBDD](https://cran.r-project.org/web/packages/SLBDD/index.html): Statistical Learning for Big Dependent Data
