@@ -471,6 +471,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [SparseTSCGM](https://cran.r-project.org/web/packages/SparseTSCGM/index.html): Sparse Time Series Chain Graphical Models
 
+[spectralAnomaly](https://cran.r-project.org/web/packages/spectralAnomaly/index.html): Detect Anomalies Using the Spectral Residual Algorithm. Apply the spectral residual algorithm to data, such as a time series, to detect anomalies.
+
 [Spillover](https://cran.r-project.org/web/packages/Spillover/index.html): Spillover/Connectedness Index Based on VAR Modelling
 
 [spooky](https://cran.r-project.org/web/packages/spooky/index.html): Time Feature Extrapolation Using Spectral Analysis and Jack-Knife Resampling
