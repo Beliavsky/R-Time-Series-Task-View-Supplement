@@ -247,6 +247,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [hmix](https://cran.r-project.org/web/packages/hmix/index.html): Hidden Markov Model for Predicting Time Sequences with Mixture Sampling
 
+[HMMcopula](https://cran.r-project.org/web/packages/HMMcopula/index.html): Markov Regime Switching Copula Models Estimation and Goodness-of-Fit
+
 [hydroGOF](https://cran.r-project.org/web/packages/hydroGOF/index.html): Goodness-of-Fit Functions for Comparison of Simulated and Observed Hydrological Time Series
 
 [JFE](https://cran.r-project.org/web/packages/JFE/index.html): Tools for Analyzing Time Series Data of Just Finance and Econometrics
