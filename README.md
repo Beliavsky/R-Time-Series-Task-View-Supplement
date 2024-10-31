@@ -253,6 +253,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [JFE](https://cran.r-project.org/web/packages/JFE/index.html): Tools for Analyzing Time Series Data of Just Finance and Econometrics
 
+[Largevars](https://cran.r-project.org/web/packages/Largevars/index.html): Testing Large VARs for the Presence of Cointegration
+
 [longmemo](https://cran.r-project.org/web/packages/longmemo/index.html): Statistics for Long-Memory Processes (Book Jan Beran), and Related Functionality
 
 [MSinference](https://cran.r-project.org/web/packages/MSinference/index.html): Multiscale Inference for Nonparametric Time Trend(s)
