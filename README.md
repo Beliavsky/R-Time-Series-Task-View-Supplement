@@ -305,6 +305,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [kcpRS](https://cran.r-project.org/web/packages/kcpRS/index.html): Kernel Change Point Detection on the Running Statistics
 
+[LaMa](https://cran.r-project.org/web/packages/LaMa/index.html): Fast Numerical Maximum Likelihood Estimation for Latent Markov Models
+
 [legion](https://cran.r-project.org/web/packages/legion/index.html): Forecasting Using Multivariate Models
 
 [liftLRD](https://cran.r-project.org/web/packages/liftLRD/index.html): Wavelet Lifting Estimators of the Hurst Exponent for Regularly and Irregularly Sampled Time Series
