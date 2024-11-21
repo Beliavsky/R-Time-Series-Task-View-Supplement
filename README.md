@@ -13,6 +13,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [anomaly](https://cran.r-project.org/web/packages/anomaly/index.html): Detecting Anomalies in Data
 
+[AnomalyScore](https://cran.r-project.org/web/packages/AnomalyScore/index.html): Anomaly Scoring for Multivariate Time Series
+
 [ardl.nardl](https://cran.r-project.org/web/packages/ardl.nardl/index.html): Linear and Nonlinear Autoregressive Distributed Lag Models
 
 [AriGaMyANNSVR](https://cran.r-project.org/web/packages/AriGaMyANNSVR/index.html): Hybrid ARIMA-GARCH and Two Specially Designed ML-Based Models
