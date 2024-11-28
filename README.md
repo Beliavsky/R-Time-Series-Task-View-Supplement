@@ -341,6 +341,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [MixedIndTests](https://cran.r-project.org/web/packages/MixedIndTests/index.html): Tests of Randomness and Tests of Independence
 
+[mlmts](https://cran.r-project.org/web/packages/mlmts/index.html): Machine Learning Algorithms for Multivariate Time Series
+
 [mlrv](https://cran.r-project.org/web/packages/mlrv/index.html): Long-Run Variance Estimation in Time Series Regression
 
 [modeltime.resample](https://cran.r-project.org/web/packages/modeltime.resample/index.html): Resampling Tools for Time Series Forecasting
