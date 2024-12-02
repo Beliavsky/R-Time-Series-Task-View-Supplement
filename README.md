@@ -225,6 +225,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [FuzzyStatProb](https://cran.r-project.org/web/packages/FuzzyStatProb/index.html): Fuzzy Stationary Probabilities from a Sequence of Observations of an Unknown Markov Chain
 
+[GARCHIto](https://cran.r-project.org/web/packages/GARCHIto/index.html): Provides functions to estimate model parameters and forecast future volatilities using the [Unified GARCH-Ito](https://www.sciencedirect.com/science/article/abs/pii/S0304407616300914) and [Realized GARCH-Ito](https://www.sciencedirect.com/science/article/abs/pii/S0304407620301974) models
+
 [garchmodels](https://cran.r-project.org/web/packages/garchmodels/index.html): The 'Tidymodels' Extension for GARCH Models
 
 [GARCHSK](https://cran.r-project.org/web/packages/GARCHSK/index.html): Estimating a GARCHSK Model and GJRSK Model (time-varying skewness and kurtosis)
