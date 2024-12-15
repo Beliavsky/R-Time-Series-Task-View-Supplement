@@ -459,6 +459,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [rtrend](https://cran.r-project.org/web/packages/rtrend/index.html): Trend Estimating Tools
 
+[rucm](https://cran.r-project.org/web/packages/rucm/index.html): Implementation of Unobserved Components Model (UCM)
+
 [santaR](https://cran.r-project.org/web/packages/santaR/index.html): Short Asynchronous Time-Series Analysis
 
 [sarima](https://cran.r-project.org/web/packages/sarima/index.html): Simulation and Prediction with Seasonal ARIMA Models
