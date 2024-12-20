@@ -515,6 +515,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [stlELM](https://cran.r-project.org/web/packages/stlELM/index.html): Hybrid Forecasting Model Based on STL Decomposition and ELM
 
+[sTSD](https://cran.r-project.org/web/packages/sTSD/index.html): Simulate Time Series Diagnostics
+
 [StVAR](https://cran.r-project.org/web/packages/StVAR/index.html): Student's t Vector Autoregression (StVAR)
 
 [stepR](https://cran.r-project.org/web/packages/stepR/index.html): Multiscale Change-Point Inference
