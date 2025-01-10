@@ -603,6 +603,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [utsf](https://cran.r-project.org/web/packages/utsf/index.html): Engine for Univariate Time Series Forecasting Using Different Regression Models in an Autoregressive Way
 
+[VARcpDetectOnline](https://cran.r-project.org/web/packages/VARcpDetectOnline/index.html): Sequential Change Point Detection for High-Dimensional VAR Models
+
 [VARDetect](https://cran.r-project.org/web/packages/VARDetect/index.html): Multiple Change Point Detection in Structural VAR Models
 
 [VAR.spec](https://cran.r-project.org/web/packages/VAR.spec/index.html): Allows Specifying a Bivariate VAR (Vector Autoregression) with Desired Spectral Characteristics
