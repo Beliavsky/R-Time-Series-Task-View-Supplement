@@ -155,6 +155,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [dfms](https://cran.r-project.org/web/packages/dfms/index.html): Dynamic Factor Models
 
+[distantia](https://cran.r-project.org/web/packages/distantia/index.html): Advanced Toolset for Efficient Time Series Dissimilarity Analysis
+
 [dlm](https://cran.r-project.org/web/packages/dlm/index.html): Bayesian and Likelihood Analysis of Dynamic Linear Models
 
 [DLSSM](https://cran.r-project.org/web/packages/DLSSM/index.html): Dynamic Logistic State Space Prediction Model
