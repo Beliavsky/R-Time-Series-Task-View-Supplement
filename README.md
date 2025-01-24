@@ -209,6 +209,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [FCVAR](https://cran.r-project.org/web/packages/FCVAR/index.html): Estimation and Inference for the Fractionally Cointegrated VAR
 
+[fDMA](https://cran.r-project.org/web/packages/fDMA/index.html): Dynamic Model Averaging and Dynamic Model Selection for Continuous Outcomes
+
 [fHMM](https://cran.r-project.org/web/packages/fHMM/index.html): Fitting Hidden Markov Models to Financial Data
 
 [finnts](https://cran.r-project.org/web/packages/finnts/index.html): Microsoft Finance Time Series Forecasting Framework
