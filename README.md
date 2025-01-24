@@ -255,6 +255,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [HDCD](https://cran.r-project.org/web/packages/HDCD/index.html): High-Dimensional Changepoint Detection
 
+[hdftsa](https://cran.r-project.org/web/packages/hdftsa/index.html): High-Dimensional Functional Time Series Analysis
+
 [hmix](https://cran.r-project.org/web/packages/hmix/index.html): Hidden Markov Model for Predicting Time Sequences with Mixture Sampling
 
 [HMMcopula](https://cran.r-project.org/web/packages/HMMcopula/index.html): Markov Regime Switching Copula Models Estimation and Goodness-of-Fit
