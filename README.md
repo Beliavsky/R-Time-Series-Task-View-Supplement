@@ -365,6 +365,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [mssm](https://cran.r-project.org/web/packages/mssm/index.html): Multivariate State Space Models
 
+[MultiGrey](https://cran.r-project.org/web/packages/MultiGrey/index.html): Fitting and Forecasting of Grey Model for Multivariate Time Series Data
+
 [multivar](https://cran.r-project.org/web/packages/multivar/index.html): Penalized Estimation and Forecasting of Multiple Subject Vector Autoregressive (multi-VAR) Models
 
 [mvDFA](https://cran.r-project.org/web/packages/mvDFA/index.html): Multivariate Detrended Fluctuation Analysis
