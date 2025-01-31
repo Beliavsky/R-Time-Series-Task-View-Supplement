@@ -249,6 +249,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [gratis](https://cran.r-project.org/web/packages/gratis/index.html): Generating Time Series with Diverse and Controllable Characteristics
 
+[GreyModel](https://cran.r-project.org/web/packages/GreyModel/index.html): Fitting and Forecasting of Grey Model
+
 [harbinger](https://cran.r-project.org/web/packages/harbinger/index.html): A Unified Time Series Event Detection Framework
 
 [Hassani.SACF](https://cran.r-project.org/web/packages/Hassani.SACF/index.html): Computing Lower Bound of Ljung-Box Test
