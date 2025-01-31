@@ -263,6 +263,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [hydroGOF](https://cran.r-project.org/web/packages/hydroGOF/index.html): Goodness-of-Fit Functions for Comparison of Simulated and Observed Hydrological Time Series
 
+[IndGenErrors](https://cran.r-project.org/web/packages/IndGenErrors/index.html): Tests of Independence Between Innovations of Generalized Error Models. Computation of test statistics of independence between (continuous) innovations of time series. They can be used with stochastic volatility models and Hidden Markov Models (HMM).
+
 [JFE](https://cran.r-project.org/web/packages/JFE/index.html): Tools for Analyzing Time Series Data of Just Finance and Econometrics
 
 [Largevars](https://cran.r-project.org/web/packages/Largevars/index.html): Testing Large VARs for the Presence of Cointegration
