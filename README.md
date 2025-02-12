@@ -453,6 +453,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [qfa](https://cran.r-project.org/web/packages/qfa/index.html): Quantile-Frequency Analysis (QFA) of Time Series
 
+[quadVAR](https://cran.r-project.org/web/packages/quadVAR/index.html): Quadratic Vector Autoregression
+
 [ragt2ridges](https://cran.r-project.org/web/packages/ragt2ridges/index.html): Ridge Estimation of Vector Auto-Regressive (VAR) Processes
 
 [RandomForestsGLS](https://cran.r-project.org/web/packages/RandomForestsGLS/index.html): Random Forests for Dependent Data
