@@ -173,6 +173,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [dynsim](https://cran.r-project.org/web/packages/dynsim/index.html): Dynamic Simulations of Autoregressive Relationships
 
+[echos](https://cran.r-project.org/web/packages/echos/index.html): Echo State Networks for Time Series Modeling and Forecasting
+
 [eemdARIMA](https://cran.r-project.org/web/packages/eemdARIMA/index.html): EEMD Based Auto Regressive Integrated Moving Average Model
 
 [EEMDlstm](https://cran.r-project.org/web/packages/EEMDlstm/index.html): EEMD Based LSTM Model for Time Series Forecasting
