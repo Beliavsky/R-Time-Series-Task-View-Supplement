@@ -41,6 +41,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [autoTS](https://cran.r-project.org/web/packages/autoTS/index.html): Automatic Model Selection and Prediction for Univariate Time Series
 
+[BayesChange](https://cran.r-project.org/web/packages/BayesChange/index.html): Bayesian Methods for Change Points Analysis
+
 [bayesdfa](https://cran.r-project.org/web/packages/bayesdfa/index.html): Bayesian Dynamic Factor Analysis (DFA) with 'Stan'
 
 [bayesGARCH](https://cran.r-project.org/web/packages/bayesGARCH/index.html): Bayesian Estimation of the GARCH(1,1) Model with Student-t Innovations
