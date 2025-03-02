@@ -219,6 +219,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [finnts](https://cran.r-project.org/web/packages/finnts/index.html): Microsoft Finance Time Series Forecasting Framework
 
+[FMM](https://cran.r-project.org/web/packages/FMM/index.html): Rhythmic Patterns Modeling by Frequency Modulated Moebius (FMM) Models
+
 [forecasteR](https://cran.r-project.org/web/packages/forecasteR/index.html): Time Series Forecast System -- a web application for displaying, analysing and forecasting univariate time series.
 
 [forecastSNSTS](https://cran.r-project.org/web/packages/forecastSNSTS/index.html): Forecasting for Stationary and Non-Stationary Time Series
