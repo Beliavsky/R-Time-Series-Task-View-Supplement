@@ -1,4 +1,3 @@
-# R Time Series Task View Supplement
 R time series packages not included in [CRAN Task View: Time Series Analysis](https://cran.r-project.org/web/views/TimeSeries.html) (at least when they were added to this list)
 
 [acfMPeriod](https://cran.r-project.org/web/packages/acfMPeriod/index.html): Robust Estimation of the ACF from the M-Periodogram
