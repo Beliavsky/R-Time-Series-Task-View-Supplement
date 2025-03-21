@@ -182,6 +182,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [EpiSignalDetection](https://cran.r-project.org/web/packages/EpiSignalDetection/index.html): Signal Detection Analysis
 
+[EQRN](https://cran.r-project.org/web/packages/EQRN/index.html): Extreme Quantile Regression Neural Networks for Risk Forecasting
+
 [EvalEst](https://cran.r-project.org/web/packages/EvalEst/index.html): Dynamic Systems Estimation - Extensions
 
 [EVI](https://cran.r-project.org/web/packages/EVI/index.html): Epidemic Volatility Index as an Early-Warning Tool
