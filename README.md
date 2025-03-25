@@ -649,3 +649,5 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 [wbsts](https://cran.r-project.org/web/packages/wbsts/index.html): added Multiple Change-Point Detection for Nonstationary Time Series
 
 [wwntests](https://cran.r-project.org/web/packages/wwntests/index.html): Hypothesis Tests for Functional Time Series
+
+[xpect](https://cran.r-project.org/web/packages/xpect/index.html): Probabilistic Time Series Forecasting with XGBoost and Conformal Inference
