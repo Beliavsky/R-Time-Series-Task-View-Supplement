@@ -568,6 +568,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [timeSeriesDataSets](https://cran.r-project.org/web/packages/timeSeriesDataSets/index.html): Time Series Data Sets
 
+[timetools](https://cran.r-project.org/web/packages/timetools/index.html): Seasonal/Sequential (Instants/Durations, Even or not) Time Series
+
 [TimeVizPro](https://cran.r-project.org/web/packages/TimeVizPro/index.html): Dynamic Data Explorer: Visualize and Forecast with 'TimeVizPro'
 
 [TrendLSW](https://cran.r-project.org/web/packages/TrendLSW/index.html): Wavelet Methods for Analysing Locally Stationary Time Series
