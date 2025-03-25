@@ -278,6 +278,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [JFE](https://cran.r-project.org/web/packages/JFE/index.html): Tools for Analyzing Time Series Data of Just Finance and Econometrics
 
+[jumps](https://cran.r-project.org/web/packages/jumps/index.html): Hodrick-Prescott Filter with Jumps
+
 [Largevars](https://cran.r-project.org/web/packages/Largevars/index.html): Testing Large VARs for the Presence of Cointegration
 
 [longmemo](https://cran.r-project.org/web/packages/longmemo/index.html): Statistics for Long-Memory Processes (Book Jan Beran), and Related Functionality
