@@ -580,19 +580,17 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [TrendLSW](https://cran.r-project.org/web/packages/TrendLSW/index.html): Wavelet Methods for Analysing Locally Stationary Time Series
 
-[tsdataleaks](https://cran.r-project.org/web/packages/tsdataleaks/index.html): Exploit Data Leakages in Time Series Forecasting Competitions
-
-[tsmarch](https://cran.r-project.org/web/packages/tsmarch/index.html): Multivariate ARCH Models
-
-[TSEAL](https://cran.r-project.org/web/packages/TSEAL/index.html): Time Series Analysis Library: allows one to perform a multivariate time series classification based on the use of Discrete Wavelet Transform for feature extraction, a step wise discriminant to select the most relevant features and finally, the use of a linear or quadratic discriminant for classification. 
-
-[tspredit](https://cran.r-project.org/web/packages/tspredit/index.html): Time Series Prediction Integrated Tuning
-
 [trendsegmentR](https://cran.r-project.org/web/packages/trendsegmentR/index.html): Linear Trend Segmentation
 
 [TrendTM](https://cran.r-project.org/web/packages/TrendTM/index.html): Trend of High-Dimensional Time Series Matrix Estimation
 
 [TRMF](https://cran.r-project.org/web/packages/TRMF/index.html): Temporally Regularized Matrix Factorization
+
+[tsdataleaks](https://cran.r-project.org/web/packages/tsdataleaks/index.html): Exploit Data Leakages in Time Series Forecasting Competitions
+
+[tsmarch](https://cran.r-project.org/web/packages/tsmarch/index.html): Multivariate ARCH Models
+
+[TSEAL](https://cran.r-project.org/web/packages/TSEAL/index.html): Time Series Analysis Library: allows one to perform a multivariate time series classification based on the use of Discrete Wavelet Transform for feature extraction, a step wise discriminant to select the most relevant features and finally, the use of a linear or quadratic discriminant for classification. 
 
 [TSANN](https://cran.r-project.org/web/packages/TSANN/index.html): Time Series Artificial Neural Network
 
