@@ -48,6 +48,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [BayesProject](https://cran.r-project.org/web/packages/BayesProject/index.html): Fast Projection Direction for Multivariate Changepoint Detection
 
+[bayesSSM](https://cran.r-project.org/web/packages/bayesSSM/index.html): Bayesian Methods for State Space Models
+
 [BEKKs](https://cran.r-project.org/web/packages/BEKKs/index.html): Multivariate Conditional Volatility Modelling and Forecasting
 
 [betategarch](https://cran.r-project.org/web/packages/betategarch/index.html): Simulation, Estimation and Forecasting of Beta-Skew-t-EGARCH Models
