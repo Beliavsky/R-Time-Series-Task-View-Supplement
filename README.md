@@ -268,6 +268,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [hdftsa](https://cran.r-project.org/web/packages/hdftsa/index.html): High-Dimensional Functional Time Series Analysis
 
+[hdMTD](https://cran.r-project.org/web/packages/hdMTD/index.html): Inference for High-Dimensional Mixture Transition Distribution Models
+
 [hmix](https://cran.r-project.org/web/packages/hmix/index.html): Hidden Markov Model for Predicting Time Sequences with Mixture Sampling
 
 [HMMcopula](https://cran.r-project.org/web/packages/HMMcopula/index.html): Markov Regime Switching Copula Models Estimation and Goodness-of-Fit
