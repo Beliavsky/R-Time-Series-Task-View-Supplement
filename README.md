@@ -168,6 +168,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [dtwSat](https://cran.r-project.org/web/packages/dtwSat/index.html): Time-Weighted Dynamic Time Warping for Satellite Image Time Series Analysis
 
+[DWaveNARDL](https://cran.r-project.org/web/packages/DWaveNARDL/index.html): Dual Wavelet Based NARDL Model. The package uses the algorithm of the paper [A wavelet-based nonlinear ARDL model for assessing the exchange rate pass-through to crude oil prices](https://www.sciencedirect.com/science/article/abs/pii/S1042443114001437?via%3Dihub).
+
 [dynmix](https://cran.r-project.org/web/packages/dynmix/index.html): Estimation of Dynamic Finite Mixtures
 
 [dymo](https://cran.r-project.org/web/packages/dymo/index.html): Dynamic Mode Decomposition for Multivariate Time Feature Prediction
