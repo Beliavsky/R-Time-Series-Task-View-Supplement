@@ -90,6 +90,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [changedetection](https://cran.r-project.org/web/packages/changedetection/index.html): Nonparametric Change Detection in Multivariate Linear Relationships
 
+[changepointGA](https://cran.r-project.org/web/packages/changepointGA/index.html): Changepoint Detection via Modified Genetic Algorithm
+
 [changepoints](https://cran.r-project.org/web/packages/changepoints/index.html): A Collection of Change-Point Detection Methods
 
 [changepointsHD](https://cran.r-project.org/web/packages/changepointsHD/index.html): Change-Point Estimation for Expensive and High-Dimensional Models
