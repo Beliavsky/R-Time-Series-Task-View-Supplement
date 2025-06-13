@@ -224,6 +224,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [fDMA](https://cran.r-project.org/web/packages/fDMA/index.html): Dynamic Model Averaging and Dynamic Model Selection for Continuous Outcomes
 
+[fEGarch](https://cran.r-project.org/web/packages/fEGarch/index.html): Estimation of a Broad Family of EGARCH Models (and other GARCH models)
+
 [fHMM](https://cran.r-project.org/web/packages/fHMM/index.html): Fitting Hidden Markov Models to Financial Data
 
 [finnts](https://cran.r-project.org/web/packages/finnts/index.html): Microsoft Finance Time Series Forecasting Framework
