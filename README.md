@@ -232,6 +232,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [FMM](https://cran.r-project.org/web/packages/FMM/index.html): Rhythmic Patterns Modeling by Frequency Modulated Moebius (FMM) Models
 
+[FoCo2](https://cran.r-project.org/web/packages/FoCo2/index.html): Coherent Forecast Combination for Linearly Constrained Multiple Time Series
+
 [forecasteR](https://cran.r-project.org/web/packages/forecasteR/index.html): Time Series Forecast System -- a web application for displaying, analysing and forecasting univariate time series.
 
 [forecastSNSTS](https://cran.r-project.org/web/packages/forecastSNSTS/index.html): Forecasting for Stationary and Non-Stationary Time Series
