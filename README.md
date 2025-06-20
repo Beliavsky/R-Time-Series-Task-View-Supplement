@@ -78,6 +78,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [BSS](https://cran.r-project.org/web/packages/BSS/index.html): Brownian Semistationary Processes
 
+[BTSR](https://cran.r-project.org/web/packages/BTSR/index.html): Bounded Time Series Regression
+
 [bvarsv](https://cran.r-project.org/web/packages/bvarsv/index.html): Bayesian Analysis of a Vector Autoregressive Model with Stochastic Volatility and Time-Varying Parameters
 
 [bvhar](https://cran.r-project.org/web/packages/bvhar/index.html): Bayesian Vector Heterogeneous Autoregressive Modeling
