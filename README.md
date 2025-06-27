@@ -292,6 +292,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [HMMcopula](https://cran.r-project.org/web/packages/HMMcopula/index.html): Markov Regime Switching Copula Models Estimation and Goodness-of-Fit
 
+[hmmTMB](https://cran.r-project.org/web/packages/hmmTMB/index.html): Fit Hidden Markov Models using Template Model Builder
+
 [hydroGOF](https://cran.r-project.org/web/packages/hydroGOF/index.html): Goodness-of-Fit Functions for Comparison of Simulated and Observed Hydrological Time Series
 
 [IndGenErrors](https://cran.r-project.org/web/packages/IndGenErrors/index.html): Tests of Independence Between Innovations of Generalized Error Models. Computation of test statistics of independence between (continuous) innovations of time series. They can be used with stochastic volatility models and Hidden Markov Models (HMM).
