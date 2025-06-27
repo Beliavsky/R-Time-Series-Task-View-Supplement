@@ -190,6 +190,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [EEMDlstm](https://cran.r-project.org/web/packages/EEMDlstm/index.html): EEMD Based LSTM Model for Time Series Forecasting
 
+[eNchange](https://cran.r-project.org/web/packages/eNchange/index.html): Ensemble Methods for Multiple Change-Point Detection
+
 [EpiSignalDetection](https://cran.r-project.org/web/packages/EpiSignalDetection/index.html): Signal Detection Analysis
 
 [EQRN](https://cran.r-project.org/web/packages/EQRN/index.html): Extreme Quantile Regression Neural Networks for Risk Forecasting
