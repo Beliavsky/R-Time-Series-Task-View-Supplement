@@ -168,6 +168,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [DLSSM](https://cran.r-project.org/web/packages/DLSSM/index.html): Dynamic Logistic State Space Prediction Model
 
+[dma](https://cran.r-project.org/web/packages/dma/index.html): Dynamic model averaging for binary and continuous outcomes
+
 [DREGAR](https://cran.r-project.org/web/packages/DREGAR/index.html): Regularized Estimation of Dynamic Linear Regression in the Presence of Autocorrelated Residuals
 
 [dsem](https://cran.r-project.org/web/packages/dsem/index.html): Fit Dynamic Structural Equation Models
