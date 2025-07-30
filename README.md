@@ -560,6 +560,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [starvars](https://cran.r-project.org/web/packages/starvars/index.html): Vector Logistic Smooth Transition Models Estimation and Prediction
 
+[statioVAR](https://cran.r-project.org/web/packages/statioVAR/index.html): Trend Removal for Vector Autoregressive Workflows
+
 [stcpR6](https://cran.r-project.org/web/packages/stcpR6/index.html): Sequential Test and Change-Point Detection Algorithms Based on E-Values / E-Detectors
 
 [STFTS](https://cran.r-project.org/web/packages/STFTS/index.html): Statistical Tests for Functional Time Series
