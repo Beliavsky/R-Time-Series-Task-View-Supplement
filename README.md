@@ -308,6 +308,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [longmemo](https://cran.r-project.org/web/packages/longmemo/index.html): Statistics for Long-Memory Processes (Book Jan Beran), and Related Functionality
 
+[mantis](https://cran.r-project.org/web/packages/mantis/index.html): Multiple Time Series Scanner
+
 [midasr](https://cran.r-project.org/web/packages/midasr/index.html): Mixed Data Sampling Regression
 
 [MSinference](https://cran.r-project.org/web/packages/MSinference/index.html): Multiscale Inference for Nonparametric Time Trend(s)
