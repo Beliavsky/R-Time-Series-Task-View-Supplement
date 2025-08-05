@@ -674,6 +674,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [vccp](https://cran.r-project.org/web/packages/vccp/index.html): Vine Copula Change Point Detection in Multivariate Time Series
 
+[VGAMextra](https://cran.r-project.org/web/packages/VGAMextra/index.html): Additions and Extensions of the 'VGAM' Package. Comprises new family functions (ffs) to estimate several time series models by maximum likelihood using Fisher scoring, unlike popular packages in CRAN relying on optim(), including ARMA-GARCH-like models, the Order-(p, d, q) ARIMAX model (non- seasonal), the Order-(p) VAR model, error correction models for cointegrated time series, and ARMA-structures with Student-t errors. 
+
 [VLTimeCausality](https://cran.r-project.org/web/packages/VLTimeCausality/index.html): Variable-Lag Time Series Causality Inference Framework
 
 [vse4ts](https://cran.r-project.org/web/packages/vse4ts/index.html): Identify Memory Patterns in Time Series Using Variance Scale Exponent
