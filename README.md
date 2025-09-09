@@ -114,6 +114,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [CNLTtsa](https://cran.r-project.org/web/packages/CliftLRD/index.html): Complex-Valued Wavelet Lifting for Univariate and Bivariate Time Series Analysis
 
+[COINT](https://cran.r-project.org/web/packages/COINT/index.html): Unit Root Tests with Structural Breaks and Fully-Modified Estimators
+
 [complex](https://cran.r-project.org/web/packages/complex/index.html): Time Series Analysis and Forecasting Using Complex Variables
 
 [ConsReg](https://cran.r-project.org/web/packages/ConsReg/index.html): Fits Regression & ARMA Models Subject to Constraints to the Coefficient
