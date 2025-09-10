@@ -514,9 +514,11 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [robustarima](https://cran.r-project.org/web/packages/robustarima/index.html): Robust ARIMA Modeling. Functions for fitting a linear regression model with ARIMA errors using a filtered tau-estimate.
 
-[rumidas](https://cran.r-project.org/web/packages/rumidas/index.html): Univariate GARCH-MIDAS, Double-Asymmetric GARCH-MIDAS and MEM-MIDAS
+[RSDC](https://cran.r-project.org/web/packages/RSDC/index.html): Regime-Switching Dynamic Correlation Models
 
 [rtrend](https://cran.r-project.org/web/packages/rtrend/index.html): Trend Estimating Tools
+
+[rumidas](https://cran.r-project.org/web/packages/rumidas/index.html): Univariate GARCH-MIDAS, Double-Asymmetric GARCH-MIDAS and MEM-MIDAS
 
 [rucm](https://cran.r-project.org/web/packages/rucm/index.html): Implementation of Unobserved Components Model (UCM)
 
