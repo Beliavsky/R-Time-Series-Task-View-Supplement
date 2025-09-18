@@ -194,6 +194,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [EEMDlstm](https://cran.r-project.org/web/packages/EEMDlstm/index.html): EEMD Based LSTM Model for Time Series Forecasting
 
+[EMLI](https://cran.r-project.org/web/packages/EMLI/index.html): Computationally Efficient Maximum Likelihood Identification of Linear Dynamical Systems
+
 [eNchange](https://cran.r-project.org/web/packages/eNchange/index.html): Ensemble Methods for Multiple Change-Point Detection
 
 [EpiSignalDetection](https://cran.r-project.org/web/packages/EpiSignalDetection/index.html): Signal Detection Analysis
