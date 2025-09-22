@@ -424,6 +424,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [naive](https://cran.r-project.org/web/packages/naive/index.html): Empirical Extrapolation of Time Feature Patterns
 
+[narfima](https://cran.r-project.org/web/packages/narfima/index.html): Neural AutoRegressive Fractionally Integrated Moving Average Model
+
 [neverhpfilter](https://cran.r-project.org/web/packages/neverhpfilter/index.html): An Alternative to the Hodrick-Prescott Filter
 
 [ngboostForecast](https://cran.r-project.org/web/packages/ngboostForecast/index.html): Probabilistic Time Series Forecasting
