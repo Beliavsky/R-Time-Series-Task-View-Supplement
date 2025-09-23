@@ -426,6 +426,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [narfima](https://cran.r-project.org/web/packages/narfima/index.html): Neural AutoRegressive Fractionally Integrated Moving Average Model
 
+[NetVAR](https://cran.r-project.org/web/packages/NetVAR/index.html): Network Structures in VAR Models. An associated paper is [Influential assets in Large-Scale Vector AutoRegressive Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4619531)
+
 [neverhpfilter](https://cran.r-project.org/web/packages/neverhpfilter/index.html): An Alternative to the Hodrick-Prescott Filter
 
 [ngboostForecast](https://cran.r-project.org/web/packages/ngboostForecast/index.html): Probabilistic Time Series Forecasting
