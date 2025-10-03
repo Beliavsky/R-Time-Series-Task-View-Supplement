@@ -162,6 +162,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [detectR](https://cran.r-project.org/web/packages/detectR/index.html): Change Point Detection
 
+[DFA](https://cran.r-project.org/web/packages/DFA/index.html): Detrended Fluctuation Analysis
+
 [dfms](https://cran.r-project.org/web/packages/dfms/index.html): Dynamic Factor Models
 
 [distantia](https://cran.r-project.org/web/packages/distantia/index.html): Advanced Toolset for Efficient Time Series Dissimilarity Analysis
