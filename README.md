@@ -588,6 +588,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [stlELM](https://cran.r-project.org/web/packages/stlELM/index.html): Hybrid Forecasting Model Based on STL Decomposition and ELM
 
+[stochvolTMB](https://cran.r-project.org/web/packages/stochvolTMB/index.html): Likelihood Estimation of Stochastic Volatility Models
+
 [StReg](https://cran.r-project.org/web/packages/StReg/index.html): Student's t Regression Models. It has the function StAR for Student's t Autoregression. An associated paper is [Good risk measures, bad statistical assumptions, ugly risk forecasts](https://onlinelibrary.wiley.com/doi/10.1111/fire.12368)
 
 [sTSD](https://cran.r-project.org/web/packages/sTSD/index.html): Simulate Time Series Diagnostics
