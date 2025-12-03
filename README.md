@@ -568,6 +568,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [spooky](https://cran.r-project.org/web/packages/spooky/index.html): Time Feature Extrapolation Using Spectral Analysis and Jack-Knife Resampling
 
+[SpuriousMemory](https://cran.r-project.org/web/packages/SpuriousMemory/index.html): Testing True Long Memory Against Spurious Long Memory
+
 [srlTS](https://cran.r-project.org/web/packages/srlTS/index.html): Sparsity-Ranked Lasso for Time Series
 
 [ssaBSS](https://cran.r-project.org/web/packages/ssaBSS/index.html): Stationary Subspace Analysis
