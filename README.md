@@ -388,6 +388,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [MetaCycle](https://cran.r-project.org/web/packages/MetaCycle/index.html): Evaluate Periodicity in Large Scale Data
 
+[mfGARCH](https://cran.r-project.org/web/packages/mfGARCH/): Mixed-Frequency GARCH Models
+
 [mFLICA](https://cran.r-project.org/web/packages/mFLICA/index.html): Leadership-Inference Framework for Multivariate Time Series
 
 [micss](https://cran.r-project.org/web/packages/micss/index.html): Modified Iterative Cumulative Sum of Squares Algorithm
