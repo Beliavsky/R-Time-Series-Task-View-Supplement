@@ -270,7 +270,9 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [GARCH.X](https://cran.r-project.org/web/packages/GARCH.X/index.html): Estimation and Exogenous Covariate Selection for GARCH-X Models
 
-[gasmodel](https://cran.r-project.org/web/packages/gasmodel/index.html): Generalized Autoregressive Score Models 
+[gasmodel](https://cran.r-project.org/web/packages/gasmodel/index.html): Generalized Autoregressive Score Models
+
+[gctsc](https://cran.r-project.org/web/packages/gctsc/index.html): Modeling Count Time Series Data via Gaussian Copula Models
 
 [GenHMM1d](https://cran.r-project.org/web/packages/GenHMM1d/index.html): Goodness-of-Fit for Univariate Hidden Markov Models 
 
