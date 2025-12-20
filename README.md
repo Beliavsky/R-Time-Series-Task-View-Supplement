@@ -46,6 +46,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [bayesGARCH](https://cran.r-project.org/web/packages/bayesGARCH/index.html): Bayesian Estimation of the GARCH(1,1) Model with Student-t Innovations
 
+[bayesianOU](https://cran.r-project.org/web/packages/bayesianOU/index.html): Bayesian Nonlinear Ornstein-Uhlenbeck Models with Stochastic Volatility
+
 [BayesProject](https://cran.r-project.org/web/packages/BayesProject/index.html): Fast Projection Direction for Multivariate Changepoint Detection
 
 [bayesSSM](https://cran.r-project.org/web/packages/bayesSSM/index.html): Bayesian Methods for State Space Models
