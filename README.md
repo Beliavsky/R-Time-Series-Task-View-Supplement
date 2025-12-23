@@ -316,6 +316,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [jumps](https://cran.r-project.org/web/packages/jumps/index.html): Hodrick-Prescott Filter with Jumps
 
+[Kendall](https://cran.r-project.org/web/packages/Kendall/index.html): Kendall Rank Correlation and Mann-Kendall Trend Test
+
 [Largevars](https://cran.r-project.org/web/packages/Largevars/index.html): Testing Large VARs for the Presence of Cointegration
 
 [longmemo](https://cran.r-project.org/web/packages/longmemo/index.html): Statistics for Long-Memory Processes (Book Jan Beran), and Related Functionality
