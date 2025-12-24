@@ -550,6 +550,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [seastests](https://cran.r-project.org/web/packages/seastests/index.html): Seasonality Tests
 
+[segMGarch](https://cran.r-project.org/web/packages/segMGarch/index.html): Multiple Change-Point Detection for High-Dimensional GARCH Processes
+
 [seqHMM](https://cran.r-project.org/web/packages/seqHMM/index.html): Mixture Hidden Markov Models for Social Sequence Data and Other Multivariate, Multichannel Categorical Time Series
 
 [setartree](https://cran.r-project.org/web/packages/setartree/index.html): A Novel and Accurate Tree Algorithm for Global Time Series Forecasting
