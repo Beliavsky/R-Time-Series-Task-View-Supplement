@@ -648,6 +648,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [tsdataleaks](https://cran.r-project.org/web/packages/tsdataleaks/index.html): Exploit Data Leakages in Time Series Forecasting Competitions
 
+[tsforecast](https://cran.r-project.org/web/packages/tsforecast/index.html): Time Series Forecasting Functions
+
 [tsmarch](https://cran.r-project.org/web/packages/tsmarch/index.html): Multivariate ARCH Models
 
 [TSEAL](https://cran.r-project.org/web/packages/TSEAL/index.html): Time Series Analysis Library: allows one to perform a multivariate time series classification based on the use of Discrete Wavelet Transform for feature extraction, a step wise discriminant to select the most relevant features and finally, the use of a linear or quadratic discriminant for classification. 
