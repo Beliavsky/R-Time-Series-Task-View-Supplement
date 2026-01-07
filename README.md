@@ -244,6 +244,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [finnts](https://cran.r-project.org/web/packages/finnts/index.html): Microsoft Finance Time Series Forecasting Framework
 
+[FluxPoint](https://cran.r-project.org/web/packages/FluxPoint/index.html)
+
 [FMM](https://cran.r-project.org/web/packages/FMM/index.html): Rhythmic Patterns Modeling by Frequency Modulated Moebius (FMM) Models
 
 [FoCo2](https://cran.r-project.org/web/packages/FoCo2/index.html): Coherent Forecast Combination for Linearly Constrained Multiple Time Series
