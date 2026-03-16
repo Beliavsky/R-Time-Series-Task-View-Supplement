@@ -300,6 +300,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [Hassani.SACF](https://cran.r-project.org/web/packages/Hassani.SACF/index.html): Computing Lower Bound of Ljung-Box Test
 
+[hatemicoint](https://cran.r-project.org/web/packages/hatemicoint/index.html): Hatemi-J Cointegration Test with Two Unknown Regime Shifts
+
 [HDCD](https://cran.r-project.org/web/packages/HDCD/index.html): High-Dimensional Changepoint Detection
 
 [hdftsa](https://cran.r-project.org/web/packages/hdftsa/index.html): High-Dimensional Functional Time Series Analysis
