@@ -434,6 +434,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [MultiGrey](https://cran.r-project.org/web/packages/MultiGrey/index.html): Fitting and Forecasting of Grey Model for Multivariate Time Series Data
 
+[multipleITScontrol](https://cran.r-project.org/web/packages/multipleITScontrol/index.html): Interrupted Time Series with a Control and Multiple Interventions
+
 [multivar](https://cran.r-project.org/web/packages/multivar/index.html): Penalized Estimation and Forecasting of Multiple Subject Vector Autoregressive (multi-VAR) Models
 
 [mvDFA](https://cran.r-project.org/web/packages/mvDFA/index.html): Multivariate Detrended Fluctuation Analysis
