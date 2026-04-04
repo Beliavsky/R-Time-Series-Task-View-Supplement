@@ -708,6 +708,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [uGMAR](https://cran.r-project.org/web/packages/uGMAR/index.html): Estimate Univariate Gaussian or Student's t Mixture Autoregressive Model
 
+[unitrootests](https://cran.r-project.org/web/packages/unitrootests/index.html): Comprehensive Unit Root and Stationarity Tests
+
 [UnitStat](https://cran.r-project.org/web/packages/UnitStat/index.html): Performs Unit Root Test Statistics
 
 [utsf](https://cran.r-project.org/web/packages/utsf/index.html): Engine for Univariate Time Series Forecasting Using Different Regression Models in an Autoregressive Way
