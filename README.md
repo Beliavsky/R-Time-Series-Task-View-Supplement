@@ -656,6 +656,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [TRMF](https://cran.r-project.org/web/packages/TRMF/index.html): Temporally Regularized Matrix Factorization
 
+[tsaux](https://cran.r-project.org/web/packages/tsaux/index.html): Time Series Forecasting Auxiliary Functions
+
 [tsdataleaks](https://cran.r-project.org/web/packages/tsdataleaks/index.html): Exploit Data Leakages in Time Series Forecasting Competitions
 
 [tsforecast](https://cran.r-project.org/web/packages/tsforecast/index.html): Time Series Forecasting Functions
