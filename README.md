@@ -522,6 +522,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [psdr](https://cran.r-project.org/web/packages/psdr/index.html): Use Time Series to Generate and Compare Power Spectral Density
 
+[pvarife](https://cran.r-project.org/web/packages/pvarife/index.html): Panel VAR Models with Interactive Fixed Effects
+
 [PWEV](https://cran.r-project.org/web/packages/PWEV/index.html): PSO Based Weighted Ensemble Algorithm for Volatility Modelling
 
 [qfa](https://cran.r-project.org/web/packages/qfa/index.html): Quantile-Frequency Analysis (QFA) of Time Series
